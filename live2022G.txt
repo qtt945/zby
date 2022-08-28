@@ -164,7 +164,6 @@ CINEMAX,http://218.32.47.179:18559/.m3u8
 AXN,http://218.32.47.179:18558/.m3u8
 纬来育乐,http://218.32.47.179:18562/.m3u8
 纬来体育,http://218.32.47.179:18563/.m3u8
-
 龙华电影台,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 中天娱乐,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
@@ -212,7 +211,7 @@ ELTA影剧,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e4169431
 EYE TV戏剧,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
 HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+HBO ,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO 温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HollywoodMovies,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 TVBS新闻台,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
@@ -240,7 +239,7 @@ TVBS新闻台,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584
 探索亚洲,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 新加坡CNA,http://50.7.220.74:8278/cna/playlist.m3u8?tid=m75c258e8db6c&ct=18336&tsum=72391487028dc68a70d050b29c3654ee
 亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
-中视HD,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+中视,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 中视新闻台,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中天亚洲台,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
@@ -286,7 +285,7 @@ astro RIA,http://51.79.82.208:16007
 astro PRIMA,http://51.79.82.208:16008
 astro OASIS,http://51.79.82.208:16009
 卫视电影,http://23.237.10.66:16010
-astro HD,http://51.79.82.208:16014
+astro ,http://51.79.82.208:16014
 TA-DAA,http://23.237.10.66:16053
 astro体育3,http://51.79.82.208:16062
 bein sports,http://51.79.82.208:16064
@@ -294,21 +293,21 @@ bein sports3,http://51.79.82.208:16065
 
 828TT,#genre#
 
-台视HD,http://iptv.everydaytv.top/taiwanlive.php?id=1
-中视HD,http://iptv.everydaytv.top/taiwanlive.php?id=2
-华视HD,http://iptv.everydaytv.top/taiwanlive.php?id=3
-民视HD,http://iptv.everydaytv.top/taiwanlive.php?id=4
+台视,http://iptv.everydaytv.top/taiwanlive.php?id=1
+中视,http://iptv.everydaytv.top/taiwanlive.php?id=2
+华视,http://iptv.everydaytv.top/taiwanlive.php?id=3
+民视,http://iptv.everydaytv.top/taiwanlive.php?id=4
 公视,http://iptv.everydaytv.top/taiwanlive.php?id=5
 人间卫视,http://iptv.everydaytv.top/taiwanlive.php?id=6
 大爱电视,http://iptv.everydaytv.top/taiwanlive.php?id=7
 好消息频道,http://iptv.everydaytv.top/taiwanlive.php?id=8
-国家地理HD,http://iptv.everydaytv.top/taiwanlive.php?id=9
+国家地理,http://iptv.everydaytv.top/taiwanlive.php?id=9
 DISCOVERY,http://iptv.everydaytv.top/taiwanlive.php?id=10
 旅游生活,http://iptv.everydaytv.top/taiwanlive.php?id=11
 动物星球,http://iptv.everydaytv.top/taiwanlive.php?id=12
 亚洲旅游,http://iptv.everydaytv.top/taiwanlive.php?id=13
 Baby TV,http://iptv.everydaytv.top/taiwanlive.php?id=14
-东森幼幼HD,http://iptv.everydaytv.top/taiwanlive.php?id=15
+东森幼幼,http://iptv.everydaytv.top/taiwanlive.php?id=15
 龙华卡通台,http://iptv.everydaytv.top/taiwanlive.php?id=16
 纬来综合,http://iptv.everydaytv.top/taiwanlive.php?id=17
 八大第一台,http://iptv.everydaytv.top/taiwanlive.php?id=18
@@ -520,29 +519,29 @@ J2,p2p://54.39.16.152:9906/6258eae70008a93811ffb57b47682072
 中天娱乐,p2p://54.39.16.152:9906/62585ecd000adfc10fdc707c21a26424
 中天亚洲,p2p://54.39.16.152:9906/626610e20008d9cf11656e24ac45db0e
 中天新闻,p2p://54.39.16.152:9906/625af85e0000d79c001149459e0c9b4f
-中视新闻HD,p2p://54.39.16.152:9906/626928b800072a99037611dc7cf5b636
+中视新闻,p2p://54.39.16.152:9906/626928b800072a99037611dc7cf5b636
 中视经典,p2p://54.39.16.152:9906/626928e3000ce0de0376bb4ad8c2f741
 中视菁采,p2p://54.39.16.152:9906/6269290b000463f70377555ece4c7fca
-中视HD,p2p://54.39.16.152:9906/6257e968000a66d90e11ddd52825327a
+中视,p2p://54.39.16.152:9906/6257e968000a66d90e11ddd52825327a
 TVBS新闻,p2p://54.39.16.152:9906/6254121e00022e5c0955285ee55f9ec4
 TVBS精采台,p2p://54.39.16.152:9906/6259b507000647d0151541dfdfa4429f
 TVBS欢乐台,p2p://54.39.16.152:9906/62585f330007fbe70fddfe2f12feb8b6
-TVBS HD,p2p://54.39.16.152:9906/62541264000b8c2809563c340355f46f
+TVBS ,p2p://54.39.16.152:9906/62541264000b8c2809563c340355f46f
 
 
 
 民视新闻,p2p://54.39.16.152:9906/625411d700086db70954149f159813c6
 民视台湾台,p2p://54.39.16.152:9906/62692823000550c80373cb5be6f7e438
 民视第一台,p2p://54.39.16.152:9906/626927db000004640372b0c04cca9ca3
-民视 HD,p2p://54.39.16.152:9906/62582da100098ec20f1c5c4698b437cf
+民视 ,p2p://54.39.16.152:9906/62582da100098ec20f1c5c4698b437cf
 
 华视信息,p2p://54.39.16.152:9906/62692acf000c5e7a037e3d0919397c0a
 华视体育文化教育,p2p://54.39.16.152:9906/62692aad0004ff59037db656efdee736
-华视HD,p2p://54.39.16.152:9906/6257e98b000307180e1264aad3095adb
+华视,p2p://54.39.16.152:9906/6257e98b000307180e1264aad3095adb
 台视综合,p2p://54.39.16.152:9906/626929ef0001a650037acf4bc1fd630b
-台视新闻HD,p2p://54.39.16.152:9906/6269285d000bc5c40374af92643669c3
+台视新闻,p2p://54.39.16.152:9906/6269285d000bc5c40374af92643669c3
 台视财经,p2p://54.39.16.152:9906/626928870002ef3e0375515fa02e33ba
-台视HD,p2p://54.39.16.152:9906/6257e8850006de950e0e6636ac2abe87
+台视,p2p://54.39.16.152:9906/6257e8850006de950e0e6636ac2abe87
 公视台语台,p2p://54.39.16.152:9906/6257e9a400000c300e12c58f9b595b1e
 公视3,p2p://54.39.16.152:9906/62692af700080a87037ed82d98f82f9d
 公视,p2p://54.39.16.152:9906/6257e9950008c4a20e128d3209b54839
@@ -640,8 +639,8 @@ Eleven Sports 1,p2p://54.39.16.152:9906/625854d4000964b10fb57b7382610c8d
 爱尔达体育3,rtmp://59.124.75.150/sat/md041
 博斯网球,rtmp://59.124.75.138/sat/md031
 博斯网球,rtmp://59.124.75.150/sat/md031
-纬来体育HD,http://123.51.229.65:18509/.m3u8
-纬来体育HD,http://60.251.39.247:8503/http/192.168.77.24:8081/hls/67/809/ch28.m3u8
+纬来体育,http://123.51.229.65:18509/.m3u8
+纬来体育,http://60.251.39.247:8503/http/192.168.77.24:8081/hls/67/809/ch28.m3u8
 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
 ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
 World Poker,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
@@ -705,7 +704,7 @@ NHK word,p2p://54.39.16.152:9906/626193dc00042c1e19e0ae50e7db21fc
 HBO原创,p2p://54.39.16.152:9906/6259b8f1000b9a0015248d4cabbe753c
 HBO家庭,p2p://54.39.16.152:9906/6258e2990005537411df43f0702258cf
 HBO HITS,p2p://54.39.16.152:9906/6258e224000020c111dd7994321ef7ec
-HBO HD,p2p://54.39.16.152:9906/6268100d000c1b5d19322ef22ed23efc
+HBO ,p2p://54.39.16.152:9906/6268100d000c1b5d19322ef22ed23efc
 AXN,p2p://54.39.16.152:9906/6258d52d000490df11aad5dfc8e0641c
 amc最爱电影,p2p://54.39.16.152:9906/62674eb900041ef4163efcc6b4c8cd0b
 STAR MOVIES,p2p://54.39.16.152:9906/6258d58f000430fa11ac54962a5c2d42
@@ -729,7 +728,7 @@ MOMO亲子台,p2p://54.39.16.152:9906/62584e6b000b41810f9c71c51bf958ec
 CN卡通,p2p://54.39.16.152:9906/62584e2d00015cde0f9b7d0de69c85e4
 Boomerang,p2p://54.39.16.152:9906/62584d670009313f0f98799e2354015b
 MTV,p2p://54.39.16.152:9906/6258e40a000dc72411e4e7829de2c8b5
-古典音乐台CLASSICA HD,p2p://54.39.16.152:9906/6260fd970004b7061795b0eb2df29131
+古典音乐台CLASSICA ,p2p://54.39.16.152:9906/6260fd970004b7061795b0eb2df29131
 
 mezzo live,p2p://54.39.16.152:9906/6259b5420005dbab1516283bb17231c9
 medici-arts,p2p://54.39.16.152:9906/6260e56600092796173732a63095dc7a
