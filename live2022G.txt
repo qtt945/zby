@@ -5,16 +5,19 @@
 ③获取最新更新,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
 ④免费分享,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
 ⑤持续更新,https://vd3.bdstatic.com/mda-ndnc5rzvijh6p5ir/720p/h264_delogo/1650703666863593607/mda-ndnc5rzvijh6p5ir.mp4
--,5,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(5).mp4
+-,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(5).mp4
 -=,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(14).mp4
--==,3,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(3).mp4
+-==,3https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(3).mp4
 -===,http://txtest-xp2p.p2p.huya.com/src/1099531728616-1099531728616-86332450422128640-2199063580688-10057-A-0-1.xs?wsSecret=b12104bdc77d4d5547922b9997b4ebcd&wsTime=6246cbc5&u=0&seqid=16487204510690000&ctype=tars_mobile&fs=bgct&t=103
 *,http://51.210.199.24/hls/stream.m3u8
 **,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 ***,http://livecdn.fptplay.net/sdb/youtv_hls.smil/playlist.m3u8
 ****,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
 *****,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(7).mp4
-
+****,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(23).mp4
+***,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/2%20(6).mp4
+**,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/2%20(7).mp4
+*,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/2%20(3).mp4
 
 828数字频道,#genre#
 第一剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
