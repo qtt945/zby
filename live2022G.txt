@@ -1,23 +1,22 @@
 ■更新信息■,#genre#
-①901更新,http://173.211.42.73:8278/Celestial/playlist.m3u8?tid=MB0B2157151121571511&ct=19234&tsum=c9c3caceba37a7a551532f3e154e81c8
+①901更新,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/2%20(3).mp4
 ②关注公众号,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk9aq4gUogIDbxwQ.mp4
 【放学回家看电视】,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
 ③获取最新更新,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
 ④免费分享,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
 ⑤持续更新,https://vd3.bdstatic.com/mda-ndnc5rzvijh6p5ir/720p/h264_delogo/1650703666863593607/mda-ndnc5rzvijh6p5ir.mp4
--,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(5).mp4
--=,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(14).mp4
--==,3https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(3).mp4
--===,http://txtest-xp2p.p2p.huya.com/src/1099531728616-1099531728616-86332450422128640-2199063580688-10057-A-0-1.xs?wsSecret=b12104bdc77d4d5547922b9997b4ebcd&wsTime=6246cbc5&u=0&seqid=16487204510690000&ctype=tars_mobile&fs=bgct&t=103
-*,http://51.210.199.24/hls/stream.m3u8
-**,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-***,http://livecdn.fptplay.net/sdb/youtv_hls.smil/playlist.m3u8
-****,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
-*****,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(7).mp4
-****,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(23).mp4
-***,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/2%20(6).mp4
-**,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/2%20(7).mp4
-*,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/2%20(3).mp4
+Ⅰ,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(5).mp4
+Ⅱ,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(14).mp4
+Ⅲ,3https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(3).mp4
+Ⅳ,http://txtest-xp2p.p2p.huya.com/src/1099531728616-1099531728616-86332450422128640-2199063580688-10057-A-0-1.xs?wsSecret=b12104bdc77d4d5547922b9997b4ebcd&wsTime=6246cbc5&u=0&seqid=16487204510690000&ctype=tars_mobile&fs=bgct&t=103
+Ⅴ,http://51.210.199.24/hls/stream.m3u8
+Ⅵ,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+Ⅶ,http://livecdn.fptplay.net/sdb/youtv_hls.smil/playlist.m3u8
+Ⅷ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+Ⅸ,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(7).mp4
+Ⅹ,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/P%20(23).mp4
+Ⅺ,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/2%20(6).mp4
+Ⅻ,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/vod/main/2%20(7).mp4
 
 828数字频道,#genre#
 第一剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
@@ -49,7 +48,7 @@ CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?zshijd
 CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
 
 
-828央视移动,#流派#
+828央视移动,#genre#
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
@@ -90,7 +89,7 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 中国教育1台,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
 
 
-828卫视移动,#流派#
+828卫视移动,#genre#
 东南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
 东南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
@@ -284,7 +283,7 @@ CGTN,http://120.236.17.34:808/hls/216/index.m3u8
 辽宁卫视高清,http://120.236.17.34:808/hls/33/index.m3u8
 
 
-828电影,#流派#
+828电影,#genre#
 飞狐外传国语,https://vip.lz-cdn.com/20220731/26529_5862e7cc/1000k/hls/index.m3u8
 黑侠,http://cs.gzc.svp.tencent-cloud.com/0bf2xmab2aaai4ahlqefbfqfbo6ddw5qahia.f10002.mp4?
 壮志凌云2,https://vip.lz-cdn10.com/20220817/2258_5f4f1e4e/1200k/hls/index.m3u8
@@ -300,7 +299,7 @@ CGTN,http://120.236.17.34:808/hls/216/index.m3u8
 仙剑风云,https://zjrsys.gzc.svp.tencent-cloud.com/0bc36aab2aaazeacrv7nyjrfb4gddxyaahia.f10002.mp4？
 
 
-901遠傳電信,#流派#
+901遠傳電信_6100,#genre#
 中天娱乐台,http://218.32.47.179:18527/.m3u8
 中天娱乐台,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 中天综合台,http://218.32.47.179:18526/.m3u8
@@ -312,7 +311,7 @@ CGTN,http://120.236.17.34:808/hls/216/index.m3u8
 华视新闻,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 三立台湾台,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 三立台湾台,http://218.32.47.179:18521/.m3u8
-东风卫视,,http://218.32.47.179:18528/.m3u8
+东风卫视,http://218.32.47.179:18528/.m3u8
 东风卫视,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 东森综合台,http://218.32.47.179:18524/.m3u8
 东森综合台,http://218.32.47.179:18524/http/192.168.1.9:8081/hls/63/805/ch12.m3u8
@@ -409,7 +408,7 @@ TVBS,http://173.211.42.73:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19
 美食星球,http://173.211.42.73:8278/foodplanet_twn/playlist.m3u8?tid=MADA1874549618745496&ct=19234&tsum=1a26f3cc623666b6bd2e40d2c16c214d
 博斯运动2台,http://173.211.42.73:8278/bosisport2_twn/playlist.m3u8?tid=ME1E5579129055791290&ct=19234&tsum=7cd9f5d3ef18948f4e6fc12f69e2279e
 博斯魅力网,http://173.211.42.73:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
-TLC旅游,http://173.211.42.73:8278/tlc_twn/playlist.m3u8?tid=ME1E5068508050685080&ct=19234&tsum=792da233e8fd44ab7b013a6faee25edf
+TLC旅游生活频道,http://173.211.42.73:8278/tlc_twn/playlist.m3u8?tid=ME1E5068508050685080&ct=19234&tsum=792da233e8fd44ab7b013a6faee25edf
 
 
 
@@ -473,8 +472,8 @@ LSTime电影台,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFF
 GoodTV2,http://198.16.64.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
 好莱坞电影台,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
 国家地理野生频道http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
-非凡新闻台http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-大爱一台http://198.16.64.10:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
+非凡新闻台,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+大爱一台,http://198.16.64.10:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
 博斯运动二台,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯网球台,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯魅力网,,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
@@ -488,7 +487,7 @@ de7455
 CNA,http://198.16.64.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
 CNN,http://198.16.64.10:8278/cnn_antik/playlist.m3u8?tid=MDDD5459459654594596&ct=19225&tsum=6755808cb6aeb34e391b5c7ab695342a
 DW,http://198.16.64.10:8278/KiX/playlist.m3u8?tid=MC7C1172544811725448&ct=19225&tsum=b8bc88b03797e354c5997adec13d939b
-HGTV居家乐活http://198.16.64.10:8278/HGTV/playlist.m3u8?tid=MA6A4582634045826340&ct=19225&tsum=cc71b142aa9f87185b6496fc6c7724ba
+HGTV居家乐活,http://198.16.64.10:8278/HGTV/playlist.m3u8?tid=MA6A4582634045826340&ct=19225&tsum=cc71b142aa9f87185b6496fc6c7724ba
 History,http://198.16.64.10:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f
 Sky News,http://198.16.64.10:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
 Sky Sports Arena,http://198.16.64.10:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f
@@ -514,7 +513,7 @@ Astro双星,http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375
 天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 Astro小太阳,http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
 Astro小太阳,http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
-ARENA2, http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
+ARENA2,http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 ARENA,http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
 ASSP1,http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
 ASSP3,http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
@@ -599,7 +598,7 @@ TVBS新闻台,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584
 中天综合台,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 
 
-831港台测试,#流派#
+831港台测试,#genre#
 中天新闻,http://www.zb-iptv.ml/youtube820.php?id=_QbRXRnHMVY
 台视新闻台,http://www.zb-iptv.ml/youtube820.php?id=xL0ch83RAK8
 中视新闻,http://www.zb-iptv.ml/youtube820.php?id=TCnaIE_SAtM
@@ -627,17 +626,17 @@ NASA TV2,http://www.zb-iptv.ml/youtube820.php?id=nA9UZF-SZoQ
 
 
 
-828TT_9600,#流派#
+828TT_9600,#genre#
 台视,http://iptv.everydaytv.top/taiwanlive.php?id=1
 中视,http://iptv.everydaytv.top/taiwanlive.php?id=2
 华视,http://iptv.everydaytv.top/taiwanlive.php?id=3
 民视,http://iptv.everydaytv.top/taiwanlive.php?id=4
 公视,http://iptv.everydaytv.top/taiwanlive.php?id=5
 人间卫视,http://iptv.everydaytv.top/taiwanlive.php?id=6
-大爱一台http://iptv.everydaytv.top/taiwanlive.php?id=7
+大爱一台,http://iptv.everydaytv.top/taiwanlive.php?id=7
 GoodTV,http://iptv.everydaytv.top/taiwanlive.php?id=8
 Discovery,http://iptv.everydaytv.top/taiwanlive.php?id=10
-TLC旅游生活频道http://iptv.everydaytv.top/taiwanlive.php?id=11
+TLC旅游生活频道,http://iptv.everydaytv.top/taiwanlive.php?id=11
 动物星球,http://iptv.everydaytv.top/taiwanlive.php?id=12
 亚洲旅游台,http://iptv.everydaytv.top/taiwanlive.php?id=13
 BabyTV,http://iptv.everydaytv.top/taiwanlive.php?id=14
@@ -654,7 +653,7 @@ BabyTV,http://iptv.everydaytv.top/taiwanlive.php?id=14
 中天娱乐台,http://iptv.everydaytv.top/taiwanlive.php?id=26
 东森综合台,http://iptv.everydaytv.top/taiwanlive.php?id=23
 年代MUCH,http://iptv.everydaytv.top/taiwanlive.php?id=28
-东风卫视http://iptv.everydaytv.top/taiwanlive.php?id=27
+东风卫视,http://iptv.everydaytv.top/taiwanlive.php?id=27
 东森戏剧台,http://iptv.everydaytv.top/taiwanlive.php?id=29
 八大戏剧台,http://iptv.everydaytv.top/taiwanlive.php?id=30
 纬来戏剧台,http://iptv.everydaytv.top/taiwanlive.php?id=31
@@ -1277,7 +1276,7 @@ CCTV-17农业农村,http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3
 重庆卫视,http://111.40.196.9/PLTV/88888888/224/3221225579/index.m3u8
 
 
-804卫视-江西,#流派#
+804卫视-江西,#genre#
 安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 安徽卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225691/index.m3u8
 安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
@@ -1311,7 +1310,7 @@ CCTV-17农业农村,http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3
 西藏卫视,http://117.169.120.140:8080/live/xizangstv/.m3u8
 
 
-719NewTV,#流派#
+719NewTV,#genre#
 新电视爱情喜剧,http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8
 NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
