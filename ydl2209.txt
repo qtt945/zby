@@ -652,7 +652,7 @@ EYE戏剧,mitv://ns1.hellotvvod.com:9906/b04459a7095546568c1d81c31b48b60e
 亚洲剧台,mitv://ns1.hellotvvod.com:9906/45b138268e5b41ec80165118d6eba2e4
      ,#genre#
       ,#genre#
-    _6100,#genre#
+    _9527,#genre#
 彩虹e台,mitv://ns1.hellotvvod.com:9906/bd7382c76b88433d8722c26f67363e6b
 彩虹电影台,mitv://ns1.hellotvvod.com:9906/e0edd767a136470b8200e6e5c03900e8
 LOOK TV,mitv://ns1.hellotvvod.com:9906/e1abfbd511284620a5a8f38bd138f45f
