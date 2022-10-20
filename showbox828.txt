@@ -1,5 +1,6 @@
 1021更新,#genre#
-22.10.21,https://vd3.bdstatic.com/mda-nh2fpdasd88ivkx9/720p/h264/1659524693733916043/mda22.10.-nh2fpdasd88ivkx9.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666103493-0-0-1e5a73c7c957d5f6d4509292255029e8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0093283131&vid=15535975653560617797&abtest=104959_2&klogid=0093283131
+22.10.21,https://vd3.bdstatic.com/mda-ngnctmcv7hnhrrk3/720p/h264/1658567028822970738/mda-ngnctmcv7hnhrrk3.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666291678-0-0-f8335517a6f5fb4166d97b8bb14b2845&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1078283456&vid=7826272914458242144&abtest=104959_2&klogid=1078283456
+：->,https://vd3.bdstatic.com/mda-nh2fpdasd88ivkx9/720p/h264/1659524693733916043/mda22.10.-nh2fpdasd88ivkx9.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666103493-0-0-1e5a73c7c957d5f6d4509292255029e8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0093283131&vid=15535975653560617797&abtest=104959_2&klogid=0093283131
 整理测试——,https://vd3.bdstatic.com/mda-njck5m3594wms3fe/sc/cae_h264/1665671850032172240/mda-njck5m3594wms3fe.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154906-0-0-c8979145aa14072d398dae305e63a989&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1106311403&vid=10402863967158131047&abtest=104959_2&klogid=11063114037bda4d9bb2af7b5b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1519724494&vid=7021412030334749336&abtest=104959_2&klogid=1519724494
 公众号：,https://vd3.bdstatic.com/mda-njck1ef61fmczpbi/sc/cae_h264/1665672998409875910/mda-njck1ef61fmczpbi.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154905-0-0-1bb11ba337b42cbeaed6cfca5cdbd026&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1105518694&vid=14529797370757380427&abtest=104959_2&klogid=1105518694
 【放学回家看电视】,https://vd3.bdstatic.com/mda-njck1kfq8iu1ybmi/720p/h264/1665670181844690314/mda-njck1kfq8iu1ybmi.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154902-0-0-24866f6a3d1863970d791cf211afc34c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1102000100&vid=13629545925756793167&abtest=104959_2&klogid=1102000100
@@ -22,12 +23,8 @@
 父亲,https://vd3.bdstatic.com/mda-nh62mqmbifuar8rz/sc/cae_h264/1659859426354262394/mda-nh62mqmbifuar8rz.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101836-0-0-b362200023ed93fb33fa1975962fdd1d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2036454512&vid=8594200827217631217&abtest=104959_2&klogid=2036454512
 逆战,https://vd3.bdstatic.com/mda-ngw38rsr5j7vkyua/sc/cae_h264/1659234306857407468/mda-ngw38rsr5j7vkyua.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666102158-0-0-cee40a86f49a348e7903c7eaef7ab27c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2357971376&vid=17434268547560777667&abtest=104959_2&klogid=2357971376
 梁祝,https://vd4.bdstatic.com/mda-jmwnmgpdwytsdpqr/v1-cae/sc/mda-jmwnmgpdwytsdpqr.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666102301-0-0-69cefa52966e83f6628e03cc2441a11a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2501183271&vid=4023744792679793088&abtest=104959_2&klogid=2501183271
-//整理测试——【公众号：放学回家看电视】
-//本资源仅作为个人JDK学习测试之用，请勿作商业之用
-
-
-
-
+整理测试——【公众号：放学回家看电视】
+本资源仅作为个人JDK学习测试之用，请勿作商业之用
 牛批,#genre#
 开挂特工,https://vd3.bdstatic.com/mda-nhkaqyfkkqknufk6/720p/h264/1661067426236670869/mda-nhkaqyfkkqknufk6.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666156291-0-0-60af4565dac013ac50f3061aa002545a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2491168407&vid=11623002899654424074&abtest=104959_2&klogid=2491168407
 男人闯进山洞1,https://vd2.bdstatic.com/mda-njgb3dcnrnznaraq/sc/cae_h264/1665993393814242015/mda-njgb3dcnrnznaraq.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666156318-0-0-90005a9758664c6635940e875fe61242&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2518100189&vid=2789100418890781673&abtest=104959_2&klogid=2518100189
@@ -37,11 +34,18 @@
 30年后的手机,https://vd4.bdstatic.com/mda-nhi9wx4gtgfy1nsk/sc/cae_h264/1660895200332389323/mda-nhi9wx4gtgfy1nsk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666156268-0-0-593983a2ed206ba692a3758b07113a56&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2468171582&vid=13721233155318221262&abtest=104959_2&klogid=2468171582
 神奇滤镜,https://vd2.bdstatic.com/mda-ngkfigax7c7tu72r/sc/cae_h264/1658403192060107999/mda-ngkfigax7c7tu72r.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666288580-0-0-aa5f1f82d4226512f3e8a638dce81f02&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1580066830&vid=8684655393891414703&abtest=104959_2&klogid=1580066830
 三哥开挂，秒天秒地秒空气,https://vd4.bdstatic.com/mda-nekbpnsy5ewaybsm/720p/h264/1653121096564527418/mda-nekbpnsy5ewaybsm.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249293-0-0-1970a310665c453e7b7b885b84151d1d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1893868197&vid=14129867130331189268&abtest=104959_1&klogid=1893868197
-印度神剧：阻击我军72小时,https://vd4.bdstatic.com/mda-jiqw022dqj3wb4m9/sc/mda-jiqw022dqj3wb4m9.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249342-0-0-b27d65359f05b9fd79d0b6f92b816001&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1942635439&vid=10892723669972237652&abtest=104959_1&klogid=1942635439
-咖喱英雄,https://vd4.bdstatic.com/mda-mbnpeuivsb16s1n3/sc/cae_h264_nowatermark/1614070623/mda-mbnpeuivsb16s1n3.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249397-0-0-35d8f5f01a1236dcf8a0eee620809acc&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1997442990&vid=5370970785295743005&abtest=104959_1&klogid=1997442990
+
 阿三情圣,https://vd3.bdstatic.com/mda-jdiqgta7qe5wkipc/sc/mda-jdiqgta7qe5wkipc.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249420-0-0-7e589b3f0752511f008979932da43f02&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2020888983&vid=16846916391055505251&abtest=104959_1&klogid=2020888983
 三哥高能神剧,https://vd4.bdstatic.com/mda-ka0vgf1fw765wz3f/v1-cae/sc/mda-ka0vgf1fw765wz3f.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249491-0-0-408456cac11e61
-
+犯罪的最高境界1,https://vd3.bdstatic.com/mda-ni2h9h2pbsqmce17/sc/cae_h264/1662207375725657517/mda-ni2h9h2pbsqmce17.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666289907-0-0-4dca67c2f32ca8e2935ddeb5bbde8a37&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2907842079&vid=2363125477193703644&abtest=104959_2&klogid=2907842079d66387b244f7d8fb78e732fec350b91c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2734950562&vid=5327433905264664779&abtest=104959_2&klogid=2734950562
+犯罪的最高境界2,https://vd2.bdstatic.com/mda-ni2h6q10qns6my3e/sc/cae_h264/1662209118690099725/mda-ni2h6q10qns6my3e.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666289926-0-0-247eb0c53becda2b40282250d78d046e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2926845664&vid=5327433905264664779&abtest=104959_2&klogid=2926845664
+犯罪的最高境界3,https://vd4.bdstatic.com/mda-ni2h5sa6dw147h8v/sc/cae_h264/1662208721633948609/mda-ni2h5sa6dw147h8v.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666289856-0-0-2de7bb6b2519341071b19eace28cf66c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2856192490&vid=9927334816880890702&abtest=104959_2&klogid=2856192490
+冰箱内的迷你世界1,https://vd3.bdstatic.com/mda-ng64ufn61z8s0ydv/sc/cae_h264/1657198509089939707/mda-ng64ufn61z8s0ydv.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666290449-0-0-9aa8fef8a9794d63a50d8bc3091f9dbf&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3449185798&vid=17055686113525056057&abtest=104959_2&klogid=3449185798
+冰箱内的迷你世界2,https://vd4.bdstatic.com/mda-ng64ta1d4gut2ivs/sc/cae_h264/1657192383457972206/mda-ng64ta1d4gut2ivs.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666290191-0-0-76015cf4d23450630574e72465883fc0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3190978137&vid=3648669627970149875&abtest=104959_2&klogid=3190978137
+冰箱内的迷你世界3,https://vd2.bdstatic.com/mda-ng64qmygaphxydmw/sc/cae_h264/1657195329186630431/mda-ng64qmygaphxydmw.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666290093-0-0-dee2949b61985d0f147d2c16c022fd5e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3093749171&vid=6974879324600642313&abtest=104959_2&klogid=3093749171
+岛国末日生存1,https://vd3.bdstatic.com/mda-nfefqdfv15pf5vup/sc/cae_h264/1655292964274081968/mda-nfefqdfv15pf5vup.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666291885-0-0-cef162fe021cb83586db02ec53d85b9e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1285421668&vid=1373455815919040944&abtest=104959_2&klogid=1285421668
+岛国末日生存2,https://vd2.bdstatic.com/mda-nfefqjcgy25jerfh/sc/cae_h264/1655293464119367075/mda-nfefqjcgy25jerfh.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666291939-0-0-
+4901247223c960baf35b4d14c5959897&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1339339949&vid=61654558545445456&abtest=104959_2&klogid=1339339949
 央视频道,#genre#
 CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8
 CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225642/index.m3u8
@@ -1029,9 +1033,8 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 大星与海绵方块,http://epg.112114.xyz/douyu/3949681
 草帽丶海贼团的直播间,http://epg.112114.xyz/douyu/997925
 【动漫】超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
-港电影院,http://epg.112114.xyz/douyu/9826611
-
-良少聊漫威 地,http://txtest-xp2p.p2p.huya.com/src/1199582668017-1199582668017-5526731416475271168-2399165459490-10057-A-0-1.xs
+公众号：,http://epg.112114.xyz/douyu/9826611
+放学回家看电视,http://txtest-xp2p.p2p.huya.com/src/1199582668017-1199582668017-5526731416475271168-2399165459490-10057-A-0-1.xs
 胡八一胖子沙漠古城找鬼洞,http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
 一部黑暗到骨子里的悬疑片,http://txtest-xp2p.p2p.huya.com/src/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.xs
 5.神乐影片2,http://epg.112114.xyz/douyu/85894
