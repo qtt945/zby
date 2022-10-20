@@ -1,4 +1,4 @@
-22.10.18,https://vd3.bdstatic.com/mda-nh2fpdasd88ivkx9/720p/h264/1659524693733916043/mda22.10.-nh2fpdasd88ivkx9.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666103493-0-0-1e5a73c7c957d5f6d4509292255029e8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0093283131&vid=15535975653560617797&abtest=104959_2&klogid=0093283131
+22.10.20,https://vd3.bdstatic.com/mda-nh2fpdasd88ivkx9/720p/h264/1659524693733916043/mda22.10.-nh2fpdasd88ivkx9.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666103493-0-0-1e5a73c7c957d5f6d4509292255029e8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0093283131&vid=15535975653560617797&abtest=104959_2&klogid=0093283131
 整理测试——,https://vd3.bdstatic.com/mda-njck5m3594wms3fe/sc/cae_h264/1665671850032172240/mda-njck5m3594wms3fe.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154906-0-0-c8979145aa14072d398dae305e63a989&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1106311403&vid=10402863967158131047&abtest=104959_2&klogid=11063114037bda4d9bb2af7b5b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1519724494&vid=7021412030334749336&abtest=104959_2&klogid=1519724494
 公众号：,https://vd3.bdstatic.com/mda-njck1ef61fmczpbi/sc/cae_h264/1665672998409875910/mda-njck1ef61fmczpbi.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154905-0-0-1bb11ba337b42cbeaed6cfca5cdbd026&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1105518694&vid=14529797370757380427&abtest=104959_2&klogid=1105518694
 【放学回家看电视】,https://vd3.bdstatic.com/mda-njck1kfq8iu1ybmi/720p/h264/1665670181844690314/mda-njck1kfq8iu1ybmi.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154902-0-0-24866f6a3d1863970d791cf211afc34c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1102000100&vid=13629545925756793167&abtest=104959_2&klogid=1102000100
@@ -21,7 +21,8 @@
 父亲,https://vd3.bdstatic.com/mda-nh62mqmbifuar8rz/sc/cae_h264/1659859426354262394/mda-nh62mqmbifuar8rz.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101836-0-0-b362200023ed93fb33fa1975962fdd1d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2036454512&vid=8594200827217631217&abtest=104959_2&klogid=2036454512
 逆战,https://vd3.bdstatic.com/mda-ngw38rsr5j7vkyua/sc/cae_h264/1659234306857407468/mda-ngw38rsr5j7vkyua.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666102158-0-0-cee40a86f49a348e7903c7eaef7ab27c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2357971376&vid=17434268547560777667&abtest=104959_2&klogid=2357971376
 梁祝,https://vd4.bdstatic.com/mda-jmwnmgpdwytsdpqr/v1-cae/sc/mda-jmwnmgpdwytsdpqr.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666102301-0-0-69cefa52966e83f6628e03cc2441a11a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2501183271&vid=4023744792679793088&abtest=104959_2&klogid=2501183271
-
+//整理测试——【公众号：放学回家看电视】
+//本资源仅作为个人JDK学习测试之用，请勿作商业之用
 
 
 
@@ -181,7 +182,8 @@ CCTV15-音乐,http://125.40.191.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playl
 黑龙江卫视 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
 黑龙江卫视 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
 黑龙江卫视 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
-
+公众号：放学回家看电视
+本资源仅作为个人JDK学习测试之用，请勿作商业之用
 北京卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
 深圳卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
 湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
@@ -300,7 +302,7 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?zshijd
 CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
-
+SKY SPROTS,http://206.221.176.47:64003
 CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -323,7 +325,10 @@ CGTNРусский,http://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 凤凰卫视电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 TVB明珠,http://120.84.96.63:808/hls/26/index.m3u8
 TVB翡翠,http://120.84.96.63:808/hls/25/index.m3u8
-无线财经,http://120.84.96.74:808/hls/86/index.m3u8
+TVB星河,http://206.221.176.47:64020无线财经,http://120.84.96.74:808/hls/86/index.m3u8
+千禧经典台,http://206.221.176.47:64002
+
+VIU tv,http://206.221.176.47:64030
 天映经典http://120.84.96.63:808/hls/85/index.m3u8
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
@@ -341,6 +346,10 @@ TVB翡翠,http://120.84.96.63:808/hls/25/index.m3u8
 NHK,http://123.51.149.52:18625/1.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 KBCSBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+Babytv,http://206.221.176.47:64006
+HOY TV,http://206.221.176.47:64007
+mediacorp,http://206.221.176.47:64022
+ELTA娱乐,http://206.221.176.47:64024
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -462,7 +471,6 @@ TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 蔷薇骑士,http://vod-wy.cctv.cn/cms/2021-04-10/ART_450k_73b00f652eae4386a5d1ef4cfe61bea5-1618067637504-001.mp4
 北大博士说相声,https://vd4.bdstatic.com/mda-mangzauuruk8d7ia/hd/cae_h264_clips/1611384035/mda-mangzauuruk8d7ia.mp4
 佩洛西访问,https://cdnv.rt.com/doc-files/filmy/vizit-pelosi-na-tajvan-amerikanskie/vizit-pelosi-na-tajvan-amerikanskie_3.mp4
-2022年8月12日
 军事行动问题,https://cdnv.rt.com/doc-files/filmy/voennaya-operaciya-voprosi-i-otveti/voennaya-operaciya-voprosi-i-otveti_3.mp4
 俄罗斯恐惧症和西方双重标准,https://cdnv.rt.com/doc-files/filmy/rusofobiya-istoriya-nenavisti/rusofobiya-istoriya-nenavisti_3.mp4
 通往独立的道路,https://cdnv.rt.com/doc-files/filmy/lnr-put-k-nezavisimosti/lnr-put-k-nezavisimosti_1.mp4
@@ -471,8 +479,7 @@ TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 азовстал。解放,https://cdnv.rt.com/doc-files/filmy/azovstal-osvobozhdenie/azovstal-osvobozhdenie_3.mp4
 第二次世界大战的领导人,https://cdnv.rt.com/doc-files/filmy/bolshaya-trojka-lideri-vtoroj-mirovoj/bolshaya-trojka-lideri-vtoroj-mirovoj_3.mp4
 马里乌波尔。回归,https://cdnv.rt.com/doc-files/filmy/mariupol-vozvrashhenie/mariupol-vozvrashhenie_3.mp4
-刚果望族
-生活在贫困中,https://cdnv.russiatoday.com/rtd-files/films/the-congo-dandies/the-congo-dandies_1.mp4
+刚果望族生活在贫困中,https://cdnv.russiatoday.com/rtd-files/films/the-congo-dandies/the-congo-dandies_1.mp4
 马里乌波尔的行动,https://cdnv.rt.com/doc-files/filmy/mariupolskij-kotyol-pered-shturmom/mariupolskij-kotyol-pered-shturmom_1.mp4
 马里乌波尔之战,https://cdnv.rt.com/doc-files/filmy/bitva-za-mariupol-osvobozhdenie-goroda/bitva-za-mariupol-osvobozhdenie-goroda_3.mp4
 顿巴斯,https://cdnv.rt.com/doc-files/filmy/donbass-leto-2014/donbass-leto-2014_3.mp4
@@ -482,6 +489,31 @@ TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 意识形态战争,https://cdnv.rt.com/doc-files/filmy/aleksandr-hodakovskij---ob-osvobozhdenii/aleksandr-hodakovskij---ob-osvobozhdenii_3.mp4
 这里是中国1,https://cdnv.rt.com/doc-files/filmy/pobedit-bednost-opit-kitaya/pobedit-bednost-opit-kitaya_1.mp4
 这里是中国2,https://cdnv.rt.com/doc-files/filmy/sovremennij-kitaj-mezhdu-gorodom-i/sovremennij-kitaj-mezhdu-gorodom-i_1.mp4
+😁😂😎,#genre#
+哥斯拉毁灭东京,https://vd3.bdstatic.com/mda-ngucjuydws2fd7ae/haokan_t/dash/1659338365731556311/mda-ngucjuydws2fd7ae-1.mp4
+A.60万日军沦为俘虏,https://vd4.bdstatic.com/mda-nh2ehwun7n624hvw/sc/cae_h264/1659524723174102304/mda-nh2ehwun7n624hvw.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248290-0-0-989e6f3191a97ec13985cf5e58ead1f6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0890578245&vid=8006838544118634015&abtest=104959_1&klogid=0890578245
+B.日本人的噩梦,https://vd3.bdstatic.com/mda-nh2ehz27usa063jk/haokan_t/dash/1659868196382793329/mda-nh2ehz27usa063jk-1.mp4
+C.不愧是战斗民族,https://vd3.bdstatic.com/mda-nh2fpdasd88ivkx9/haokan_t/dash/1664666410293379011/mda-nh2fpdasd88ivkx9-1.mp4
+日军的最惨败仗,https://vd3.bdstatic.com/mda-nhphmgf3augwudwc/haokan_t/dash/1661729201158819665/mda-nhphmgf3augwudwc-1.mp4
+鬼子被困孤岛,https://vd2.bdstatic.com/mda-nhphmmx0pbsd918y/sc/cae_h264/1661345393973381310/mda-nhphmmx0pbsd918y.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248409-0-0-5b4c9e81a31f3d6e4744c356fd86ee9d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1009823699&vid=6899848997344278606&abtest=104959_1&klogid=1009823699
+我们的喜剧片,https://vd2.bdstatic.com/mda-nhpk23em440kfxb0/sc/cae_h264/1661359177736100632/mda-nhpk23em440kfxb0.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248450-0-0-dc4a9f353a205d2a697e97d3e9346463&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1050669932&vid=8301576058904599509&abtest=104959_1&klogid=1050669932
+10万日军全灭,https://vd2.bdstatic.com/mda-nhrfsb0ddkxkv2a5/sc/cae_h264/1661513273729945609/mda-nhrfsb0ddkxkv2a5.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248490-0-0-88e47b20fdc20b8cfd2b9c3eb6980e2e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1090187889&vid=6767192918847637469&abtest=104959_1&klogid=1090187889
+日本大战俄国1,https://vd4.bdstatic.com/mda-nhrfs5sjvad5kjhe/sc/cae_h264/1661513591105581579/mda-nhrfs5sjvad5kjhe.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248490-0-0-1b7200269a4fece44568f04ff8f5fe41&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1090666390&vid=11993620627434128325&abtest=104959_1&klogid=1090666390
+日本大战俄国2,https://vd2.bdstatic.com/mda-nhs3338566028k86/sc/cae_h264/1661567359007688919/mda-nhs3338566028k86.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248491-0-0-61ff7737481eedcc144f2bef4d7f8fdf&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1091397859&vid=16153009109059707393&abtest=104959_1&klogid=1091397859
+鬼子最大的战舰,https://vd3.bdstatic.com/mda-nhv52hft375y8xrd/haokan_t/dash/1662416409438941984/mda-nhv52hft375y8xrd-1.mp4
+死了直接喂王八,https://vd2.bdstatic.com/mda-nhv52m0fa0imj9zi/sc/cae_h264/1661833153631667840/mda-nhv52m0fa0imj9zi.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248585-0-0-9f3dead7675d5d455053e1052a32ad43&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1185885664&vid=11362901412757191886&abtest=104959_1&klogid=1185885664
+永不沉没的战舰,https://vd2.bdstatic.com/mda-nhv52rfb3mtp6suv/sc/cae_h264/1661834087174005580/mda-nhv52rfb3mtp6suv.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248586-0-0-d6d2daa016120ecec0d9a19b8df9beb4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1186522158&vid=3650655058622985986&abtest=104959_1&klogid=1186522158
+鬼子的作死之路1,https://vd4.bdstatic.com/mda-ni7fjv3vad7sgxzi/sc/cae_h264/1662636313614670081/mda-ni7fjv3vad7sgxzi.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248679-0-0-4931db597e19204074bf04a9b2f153d2&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1278958114&vid=1694539891562323438&abtest=104959_1&klogid=1278958114
+鬼子的作死之路2,https://vd3.bdstatic.com/mda-ni7fk0n4kehayqi5/sc/cae_h264/1662636556902137225/mda-ni7fk0n4kehayqi5.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248679-0-0-a35a72948b083c2d9b802c5ff2e737c8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1279574172&vid=10488935653110106967&abtest=104959_1&klogid=1279574172
+鬼子的作死之路3,https://vd2.bdstatic.com/mda-ni8dhsqf2bay6p6b/sc/cae_h264/1662717429564811373/mda-ni8dhsqf2bay6p6b.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248680-0-0-b99937afca7051b920daac6c8dc7b566&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1280119135&vid=10909581507438250936&abtest=104959_1&klogid=1280119135
+日本投降后,https://vd3.bdstatic.com/mda-ni94drmzny7zuufh/haokan_t/dash/1662896179410043535/mda-ni94drmzny7zuufh-1.mp4
+阿鬼从军1,https://vd4.bdstatic.com/mda-nishqs0uksdfx6j4/sc/cae_h264/1664282923287425578/mda-nishqs0uksdfx6j4.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248915-0-0-05e41a3f3b450fc044a3e1de75d86b49&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1515223806&vid=3009400994871611718&abtest=104959_1&klogid=1515223806
+阿鬼从军2,https://vd2.bdstatic.com/mda-nishr6fx4nujgs6y/sc/cae_h264/1664283689981768313/mda-nishr6fx4nujgs6y.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248916-0-0-35411911ee9c57cd6d5f559a32f75ce6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1516324372&vid=2522497711061901919&abtest=104959_1&klogid=1516324372
+阿鬼从军3,https://vd4.bdstatic.com/mda-nishr56qufcfu6bt/sc/cae_h264/1664284256145536723/mda-nishr56qufcfu6bt.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248917-0-0-93a772a3b8cf6af6da12586e421070e0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1517460590&vid=4885280443283448515&abtest=104959_1&klogid=1517460590
+鬼子自杀神器1,https://vd4.bdstatic.com/mda-njdj8dd0v3ruxcud/sc/cae_h264/1665755234721445004/mda-njdj8dd0v3ruxcud.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249034-0-0-d6e8d14eb8572068ef66840b7bf5c156&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1634856411&vid=8619951779930493208&abtest=104959_1&klogid=1634856411
+鬼子自杀神器2,https://vd3.bdstatic.com/mda-njdj8h56idq3kicd/sc/cae_h264/1665755748060523496/mda-njdj8h56idq3kicd.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249035-0-0-ba2b5bd40991115da3c4e4d7be8f267f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1635421423&vid=5971321753399267737&abtest=104959_1&klogid=1635421423
+鬼子自杀神器3,https://vd3.bdstatic.com/mda-njehmff800y10cpk/sc/cae_h264/1665837539517784565/mda-njehmff800y10cpk.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249036-0-0-5f551353bddd102151a5b0a54789ab80&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1636439606&vid=8062779665401088004&abtest=104959_1&klogid=1636439606
+25568e3a5a5f276e7e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2091311884&vid=5888975795778479685&abtest=104959_1&klogid=2091311884
 
 4K专区,#genre#
 CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8 
