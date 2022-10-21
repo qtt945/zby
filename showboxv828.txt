@@ -1,127 +1,217 @@
-大陆央视,#genre#
-CCTV1,http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.65.179/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV3,http://39.134.66.46/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://39.134.65.179/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://39.134.65.181/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://39.134.65.173/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://39.134.65.183/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://39.134.65.175/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8
-CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-CCTV5,http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
-CCTV5,http://39.134.65.179/PLTV/88888888/224/3221225818/index.m3u8
-CCTV5,http://39.134.65.181/PLTV/88888888/224/3221225818/index.m3u8
-CCTV5,http://39.134.65.173/PLTV/88888888/224/3221225818/index.m3u8
-CCTV5,http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8
-CCTV5+,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
-CCTV5+,http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
-CCTV5+,http://39.134.65.173/PLTV/88888888/224/3221225507/index.m3u8
-CCTV5+,http://39.134.65.183/PLTV/88888888/224/3221225507/index.m3u8
-CCTV5+,http://39.134.65.175/PLTV/88888888/224/3221225507/index.m3u8
-CCTV5+,http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
-CCTV6,http://39.134.65.181/PLTV/88888888/224/3221225814/index.m3u8
-CCTV6,http://39.134.65.173/PLTV/88888888/224/3221225814/index.m3u8
-CCTV6,http://39.134.65.183/PLTV/88888888/224/3221225814/index.m3u8
-CCTV6,http://39.134.65.175/PLTV/88888888/224/3221225814/index.m3u8
-CCTV6,http://39.134.65.177/PLTV/88888888/224/3221225814/index.m3u8
-CCTV6,http://39.134.66.2/PLTV/88888888/224/3221225814/index.m3u8
-CCTV7,http://39.134.65.179/PLTV/88888888/224/3221225671/index.m3u8
-CCTV7,http://39.134.65.164/PLTV/88888888/224/3221225671/index.m3u8
-CCTV7,http://39.134.65.181/PLTV/88888888/224/3221225671/index.m3u8
-CCTV7,http://39.134.65.173/PLTV/88888888/224/3221225671/index.m3u8
-CCTV7,http://39.134.65.183/PLTV/88888888/224/3221225671/index.m3u8
-CCTV7,http://39.134.66.2/PLTV/88888888/224/3221225671/index.m3u8
-CCTV8,http://39.134.65.181/PLTV/88888888/224/3221225795/index.m3u8
-CCTV8,http://39.134.65.173/PLTV/88888888/224/3221225795/index.m3u8
-CCTV8,http://39.134.65.183/PLTV/88888888/224/3221225795/index.m3u8
-CCTV8,http://39.134.65.175/PLTV/88888888/224/3221225795/index.m3u8
-CCTV8,http://39.134.65.177/PLTV/88888888/224/3221225795/index.m3u8
-CCTV9,http://39.134.66.46/PLTV/88888888/224/3221225676/index.m3u8
-CCTV9,http://39.134.65.179/PLTV/88888888/224/3221225676/index.m3u8
-CCTV9,http://39.134.65.181/PLTV/88888888/224/3221225676/index.m3u8
-CCTV9,http://39.134.65.166/PLTV/88888888/224/3221225676/index.m3u8
-CCTV9,http://39.134.65.183/PLTV/88888888/224/3221225676/index.m3u8
-CCTV9,http://39.134.65.173/PLTV/88888888/224/3221225676/index.m3u8
-CCTV10,http://39.134.65.179/PLTV/88888888/224/3221225677/index.m3u8
-CCTV10,http://39.134.65.164/PLTV/88888888/224/3221225677/index.m3u8
-CCTV10,http://39.134.65.166/PLTV/88888888/224/3221225677/index.m3u8
-CCTV10,http://39.134.65.181/PLTV/88888888/224/3221225677/index.m3u8
-CCTV10,http://39.134.65.183/PLTV/88888888/224/3221225677/index.m3u8
+1021更新,#genre#
+22.10.21,https://vd3.bdstatic.com/mda-ngnctmcv7hnhrrk3/720p/h264/1658567028822970738/mda-ngnctmcv7hnhrrk3.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666291678-0-0-f8335517a6f5fb4166d97b8bb14b2845&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1078283456&vid=7826272914458242144&abtest=104959_2&klogid=1078283456
+：->,https://vd3.bdstatic.com/mda-nh2fpdasd88ivkx9/720p/h264/1659524693733916043/mda22.10.-nh2fpdasd88ivkx9.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666103493-0-0-1e5a73c7c957d5f6d4509292255029e8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0093283131&vid=15535975653560617797&abtest=104959_2&klogid=0093283131
+整理测试——,https://vd3.bdstatic.com/mda-njck5m3594wms3fe/sc/cae_h264/1665671850032172240/mda-njck5m3594wms3fe.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154906-0-0-c8979145aa14072d398dae305e63a989&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1106311403&vid=10402863967158131047&abtest=104959_2&klogid=11063114037bda4d9bb2af7b5b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1519724494&vid=7021412030334749336&abtest=104959_2&klogid=1519724494
+公众号：,https://vd3.bdstatic.com/mda-njck1ef61fmczpbi/sc/cae_h264/1665672998409875910/mda-njck1ef61fmczpbi.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154905-0-0-1bb11ba337b42cbeaed6cfca5cdbd026&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1105518694&vid=14529797370757380427&abtest=104959_2&klogid=1105518694
+【放学回家看电视】,https://vd3.bdstatic.com/mda-njck1kfq8iu1ybmi/720p/h264/1665670181844690314/mda-njck1kfq8iu1ybmi.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154902-0-0-24866f6a3d1863970d791cf211afc34c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1102000100&vid=13629545925756793167&abtest=104959_2&klogid=1102000100
+个人JDK学习测试之用，https://vd3.bdstatic.com/mda-njafs8kcysyjim6z/sc/cae_h264/1665487465154943473/mda-njafs8kcysyjim6z.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154985-0-0-a61b0e797d567de3e260e63cf884792c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1185853694&vid=9452014905790260261&abtest=104959_2&klogid=1185853694
+请勿作商业之用,https://vd4.bdstatic.com/mda-njafsfemsbq41di1/sc/cae_h264/1665487907252330790/mda-njafsfemsbq41di1.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666154984-0-0-9b63a505c3da927c3e45991706cf1fb4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1184892305&vid=5771210687945782782&abtest=104959_2&klogid=1184892305
+世界第一等,https://vd2.bdstatic.com/mda-ni5xmh6my8qfq24g/sc/cae_h264/1662555156171215517/mda-ni5xmh6my8qfq24g.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101647-0-0-531b0b56f8018c347c84990f3df9004c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1847163352&vid=4825658235509808203&abtest=104959_2&klogid=1847163352
+孤单的人,https://vd3.bdstatic.com/mda-ni3yvddqcsq8qzaz/sc/cae_h264/1662392082429657262/mda-ni3yvddqcsq8qzaz.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101652-0-0-68b5073a855804a4400773fd019feb82&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1852649630&vid=10899964401569394777&abtest=104959_2&klogid=1852649630
+神曲《Bingo》,https://vd3.bdstatic.com/mda-nh42aq13xkcpamq5/sc/cae_h264/1659663800687790546/mda-nh42aq13xkcpamq5.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101842-0-0-73a5e6474bfad14fce291178a288f859&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2042659063&vid=5453939662318273091&abtest=104959_2&klogid=2042659063
+忘情水,https://vd4.bdstatic.com/mda-nh62ny70ygcrkqei/sc/cae_h264/1659837698476018530/mda-nh62ny70ygcrkqei.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101837-0-0-03dff39345ad6ad325f0aabeaf0be18b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2037763042&vid=10913827223696619532&abtest=104959_2&klogid=2037763042
+多年以后,https://vd2.bdstatic.com/mda-nhh1k0x48y6yf3t3/sc/cae_h264/1660786840444964591/mda-nhh1k0x48y6yf3t3.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101804-0-0-8ba930de76cc5f3b35b8f9073082ffac&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2004519209&vid=3326032770398347186&abtest=104959_2&klogid=2004519209
+甜蜜蜜,https://vd4.bdstatic.com/mda-nhi1q4truesxqxuq/sc/cae_h264/1660894451896075956/mda-nhi1q4truesxqxuq.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101805-0-0-b1b6b0e18c48cfe742014dddfdc77133&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2005929589&vid=18056024416716518085&abtest=104959_2&klogid=2005929589
+天若有情,https://vd2.bdstatic.com/mda-nhh1j64camascxp2/sc/cae_h264/1660787144539170631/mda-nhh1j64camascxp2.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101810-0-0-e485e889f4d4ab779b993394a87911e0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2010581087&vid=2687977488994785560&abtest=104959_2&klogid=2010581087
+人在江湖飘,https://vd4.bdstatic.com/mda-nhf27b3w57cm1nrd/sc/cae_h264/1660614424353653538/mda-nhf27b3w57cm1nrd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101815-0-0-9fd6c5e081dc68e0378650432515d172&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2015895646&vid=14988028202364241845&abtest=104959_2&klogid=2015895646
+新打工谣,https://vd2.bdstatic.com/mda-nhf1qhwsx4yqg8ba/sc/cae_h264/1660612695026252891/mda-nhf1qhwsx4yqg8ba.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101981-0-0-f7a9f36ae5526c706b9ce6a0d62e2690&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2181249234&vid=13476380673677624546&abtest=104959_2&klogid=2181249234
+相信自己,https://vd4.bdstatic.com/mda-nhf26m5qahazv0pt/sc/cae_h264/1660624588334006692/mda-nhf26m5qahazv0pt.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101817-0-0-5dd347aaab96f1806c8ed0652d90abe3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2017923550&vid=3478434072691654472&abtest=104959_2&klogid=2017923550
+你家在哪里,https://vd2.bdstatic.com/mda-nhd1v3mfknip2yaq/sc/cae_h264/1660443604976382547/mda-nhd1v3mfknip2yaq.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101821-0-0-5ab66ca1093d26f6bc71c4328d5a284e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2021370123&vid=4108798918356974830&abtest=104959_2&klogid=2021370123
+红尘有你,https://vd3.bdstatic.com/mda-nhb1nx8k4xfsep3n/sc/cae_h264/1660283807001164457/mda-nhb1nx8k4xfsep3n.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101822-0-0-8b54e69c80096e7d53c7aff1d0e598fc&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2022951701&vid=9081027338093963157&abtest=104959_2&klogid=2022951701
+难以抗拒,https://vd4.bdstatic.com/mda-nh828hkpw7ub76je/sc/cae_h264/1660049894627792209/mda-nh828hkpw7ub76je.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101830-0-0-2000922402ab68c94c5de8d559b08e31&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2030182590&vid=2610008648867092025&abtest=104959_2&klogid=2030182590
+像我这样的人,https://vd3.bdstatic.com/mda-nh92ui5u5nq5ycjd/sc/cae_h264/1660097445710337336/mda-nh92ui5u5nq5ycjd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101832-0-0-d23a87c754f339fb81f0174549b59dc6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2032927484&vid=731164549559976541&abtest=104959_2&klogid=2032927484
+父亲,https://vd3.bdstatic.com/mda-nh62mqmbifuar8rz/sc/cae_h264/1659859426354262394/mda-nh62mqmbifuar8rz.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666101836-0-0-b362200023ed93fb33fa1975962fdd1d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2036454512&vid=8594200827217631217&abtest=104959_2&klogid=2036454512
+逆战,https://vd3.bdstatic.com/mda-ngw38rsr5j7vkyua/sc/cae_h264/1659234306857407468/mda-ngw38rsr5j7vkyua.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666102158-0-0-cee40a86f49a348e7903c7eaef7ab27c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2357971376&vid=17434268547560777667&abtest=104959_2&klogid=2357971376
+梁祝,https://vd4.bdstatic.com/mda-jmwnmgpdwytsdpqr/v1-cae/sc/mda-jmwnmgpdwytsdpqr.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666102301-0-0-69cefa52966e83f6628e03cc2441a11a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2501183271&vid=4023744792679793088&abtest=104959_2&klogid=2501183271
+整理测试——【公众号：放学回家看电视】
+本资源仅作为个人JDK学习测试之用，请勿作商业之用
+牛批,#genre#
+开挂特工,https://vd3.bdstatic.com/mda-nhkaqyfkkqknufk6/720p/h264/1661067426236670869/mda-nhkaqyfkkqknufk6.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666156291-0-0-60af4565dac013ac50f3061aa002545a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2491168407&vid=11623002899654424074&abtest=104959_2&klogid=2491168407
+男人闯进山洞1,https://vd2.bdstatic.com/mda-njgb3dcnrnznaraq/sc/cae_h264/1665993393814242015/mda-njgb3dcnrnznaraq.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666156318-0-0-90005a9758664c6635940e875fe61242&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2518100189&vid=2789100418890781673&abtest=104959_2&klogid=2518100189
+男人闯进山洞2,https://vd4.bdstatic.com/mda-njgayyk0wyst7tc6/sc/cae_h264/1665993007925661401/mda-njgayyk0wyst7tc6.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666156318-0-0-92fc7051f5eac659dced58097fbf15b1&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2518845553&vid=10714675870484077605&abtest=104959_2&klogid=2518845553
+男人闯进山洞3,https://vd2.bdstatic.com/mda-njgask6d2a7tpwhj/sc/cae_h264/1665992545405801816/mda-njgask6d2a7tpwhj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666156319-0-0-0f6487ff962ccbaeb498c9c0bb242b8a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2519755794&vid=7343869248920026063&abtest=104959_2&klogid=2519755794
+万能鼠标,https://vd2.bdstatic.com/mda-nh6ebtjcjj3i5jny/sc/cae_h264/1659869389624007720/mda-nh6ebtjcjj3i5jny.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666156083-0-0-1fce29a396a1f41a53d01571705038f0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2283596065&vid=18142545871186629046&abtest=104959_2&klogid=2283596065
+30年后的手机,https://vd4.bdstatic.com/mda-nhi9wx4gtgfy1nsk/sc/cae_h264/1660895200332389323/mda-nhi9wx4gtgfy1nsk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666156268-0-0-593983a2ed206ba692a3758b07113a56&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2468171582&vid=13721233155318221262&abtest=104959_2&klogid=2468171582
+神奇滤镜,https://vd2.bdstatic.com/mda-ngkfigax7c7tu72r/sc/cae_h264/1658403192060107999/mda-ngkfigax7c7tu72r.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666288580-0-0-aa5f1f82d4226512f3e8a638dce81f02&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1580066830&vid=8684655393891414703&abtest=104959_2&klogid=1580066830
+三哥开挂，秒天秒地秒空气,https://vd4.bdstatic.com/mda-nekbpnsy5ewaybsm/720p/h264/1653121096564527418/mda-nekbpnsy5ewaybsm.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249293-0-0-1970a310665c453e7b7b885b84151d1d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1893868197&vid=14129867130331189268&abtest=104959_1&klogid=1893868197
 
-CCTV12,http://39.134.65.179/PLTV/88888888/224/3221225669/index.m3u8
-CCTV12,http://39.134.65.164/PLTV/88888888/224/3221225669/index.m3u8
-CCTV12,http://39.134.65.181/PLTV/88888888/224/3221225669/index.m3u8
-CCTV12,http://39.134.65.173/PLTV/88888888/224/3221225669/index.m3u8
-CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-CCTV14,http://39.134.65.179/PLTV/88888888/224/3221225674/index.m3u8
-CCTV14,http://39.134.65.164/PLTV/88888888/224/3221225674/index.m3u8
-CCTV14,http://39.134.65.181/PLTV/88888888/224/3221225674/index.m3u8
-CCTV14,http://39.134.65.183/PLTV/88888888/224/3221225674/index.m3u8
-CCTV14,http://39.134.65.173/PLTV/88888888/224/3221225674/index.m3u8
+阿三情圣,https://vd3.bdstatic.com/mda-jdiqgta7qe5wkipc/sc/mda-jdiqgta7qe5wkipc.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249420-0-0-7e589b3f0752511f008979932da43f02&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2020888983&vid=16846916391055505251&abtest=104959_1&klogid=2020888983
+三哥高能神剧,https://vd4.bdstatic.com/mda-ka0vgf1fw765wz3f/v1-cae/sc/mda-ka0vgf1fw765wz3f.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249491-0-0-408456cac11e61
+犯罪的最高境界1,https://vd3.bdstatic.com/mda-ni2h9h2pbsqmce17/sc/cae_h264/1662207375725657517/mda-ni2h9h2pbsqmce17.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666289907-0-0-4dca67c2f32ca8e2935ddeb5bbde8a37&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2907842079&vid=2363125477193703644&abtest=104959_2&klogid=2907842079d66387b244f7d8fb78e732fec350b91c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2734950562&vid=5327433905264664779&abtest=104959_2&klogid=2734950562
+犯罪的最高境界2,https://vd2.bdstatic.com/mda-ni2h6q10qns6my3e/sc/cae_h264/1662209118690099725/mda-ni2h6q10qns6my3e.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666289926-0-0-247eb0c53becda2b40282250d78d046e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2926845664&vid=5327433905264664779&abtest=104959_2&klogid=2926845664
+犯罪的最高境界3,https://vd4.bdstatic.com/mda-ni2h5sa6dw147h8v/sc/cae_h264/1662208721633948609/mda-ni2h5sa6dw147h8v.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666289856-0-0-2de7bb6b2519341071b19eace28cf66c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2856192490&vid=9927334816880890702&abtest=104959_2&klogid=2856192490
+冰箱内的迷你世界1,https://vd3.bdstatic.com/mda-ng64ufn61z8s0ydv/sc/cae_h264/1657198509089939707/mda-ng64ufn61z8s0ydv.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666290449-0-0-9aa8fef8a9794d63a50d8bc3091f9dbf&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3449185798&vid=17055686113525056057&abtest=104959_2&klogid=3449185798
+冰箱内的迷你世界2,https://vd4.bdstatic.com/mda-ng64ta1d4gut2ivs/sc/cae_h264/1657192383457972206/mda-ng64ta1d4gut2ivs.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666290191-0-0-76015cf4d23450630574e72465883fc0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3190978137&vid=3648669627970149875&abtest=104959_2&klogid=3190978137
+冰箱内的迷你世界3,https://vd2.bdstatic.com/mda-ng64qmygaphxydmw/sc/cae_h264/1657195329186630431/mda-ng64qmygaphxydmw.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666290093-0-0-dee2949b61985d0f147d2c16c022fd5e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3093749171&vid=6974879324600642313&abtest=104959_2&klogid=3093749171
+岛国末日生存1,https://vd3.bdstatic.com/mda-nfefqdfv15pf5vup/sc/cae_h264/1655292964274081968/mda-nfefqdfv15pf5vup.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666291885-0-0-cef162fe021cb83586db02ec53d85b9e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1285421668&vid=1373455815919040944&abtest=104959_2&klogid=1285421668
+岛国末日生存2,https://vd2.bdstatic.com/mda-nfefqjcgy25jerfh/sc/cae_h264/1655293464119367075/mda-nfefqjcgy25jerfh.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666291939-0-0-
+4901247223c960baf35b4d14c5959897&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1339339949&vid=61654558545445456&abtest=104959_2&klogid=1339339949
+神奇滤镜,https://vd2.bdstatic.com/mda-ngkfigax7c7tu72r/sc/cae_h264/1658403192060107999/mda-ngkfigax7c7tu72r.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666288580-0-0-aa5f1f82d4226512f3e8a638dce81f02&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1580066830&vid=8684655393891414703&abtest=104959_2&klogid=1580066830
+终结者1,https://vd4.bdstatic.com/mda-mdc4s2yc81h03x2d/sc/cae_h264/1618292087/mda-mdc4s2yc81h03x2d.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246223-0-0-1e79d85f68722e6af624106676358c9a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2423792048&vid=8398579846738950892&abtest=104959_1&klogid=2423792048
+终结者2,https://vd3.bdstatic.com/mda-mdgyt48tnenqrxie/sc/cae_h264/1618708312/mda-mdgyt48tnenqrxie.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246257-0-0-bbc449ae92c2b37c05e54dc468c2d815&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2457710454&vid=17082565397082195491&abtest=104959_1&klogid=2457710454
+终结者3,https://vd2.bdstatic.com/mda-mdi5tvnza6tnurp0/sc/cae_h264/1618809273/mda-mdi5tvnza6tnurp0.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246285-0-0-f33f4da2f354cca7b4dd9e19c3e6d4b7&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2485283616&vid=11022964492803233690&abtest=104959_1&klogid=2485283616
+终结者4,https://vd3.bdstatic.com/mda-mdnsbfmzm20fguex/sc/cae_h264_nowatermark/1619418926/mda-mdnsbfmzm20fguex.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246303-0-0-8c8cd2e9c74c9389c07e9dd1a4e7e825&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2503569157&vid=2352224660239894047&abtest=104959_1&klogid=2503569157
+终结者5,https://vd2.bdstatic.com/mda-mdpivv3xysh9yhb5/720p/h264/1619271566/mda-mdpivv3xysh9yhb5.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246304-0-0-4e01e73cb63c78aa660f924dbdafde27&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2504511504&vid=18139895160439343370&abtest=104959_1&klogid=2504511504
+终结者6,https://vd3.bdstatic.com/mda-mdu1bwbwu824jkjm/sc/cae_h264_nowatermark/1620111397173307037/mda-mdu1bwbwu824jkjm.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246305-0-0-86474914a594e6bc2a4afbaef72802d7&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2505401682&vid=3737803196572303034&abtest=104959_1&klogid=2505401682
+雪国列车,https://vd4.bdstatic.com/mda-me6hj1wa5h13dp87/sc/cae_h264_nowatermark/1620392425452334096/mda-me6hj1wa5h13dp87.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246306-0-0-b74b39a56a1dbe8c14eb1d862fa51295&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2506785636&vid=5306165664659678808&abtest=104959_1&klogid=2506785636
+透明人,https://vd3.bdstatic.com/mda-me95vin4r1cygqqk/sc/cae_h264_nowatermark/1620623319061863233/mda-me95vin4r1cygqqk.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246307-0-0-b0cf01d79d2f87aa93fdf4af1b88cb9b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2507404407&vid=16937580055934613257&abtest=104959_1&klogid=2507404407
+彗星撞击地球,https://vd4.bdstatic.com/mda-mebdn5x233cgs8cf/sc/cae_h264_nowatermark/1621496382503445096/mda-mebdn5x233cgs8cf.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246308-0-0-4ae6a6ee5be3766b2ed2a28cd585151d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2507952616&vid=17464600784863687408&abtest=104959_1&klogid=2507952616
+超能力,https://vd3.bdstatic.com/mda-meecq33tdhdn82nd/sc/cae_h264_nowatermark/1621496380935176803/mda-meecq33tdhdn82nd.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246308-0-0-064600ebd0bfb3f6ec6d879e66d0cde7&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2508509550&vid=15890248184359755211&abtest=104959_1&klogid=2508509550
+超能力拯救世界,https://vd3.bdstatic.com/mda-meige7yqzmt4dfj1/sc/cae_h264_nowatermark/1621425859453194912/mda-meige7yqzmt4dfj1.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246420-0-0-396527fad3b9236bb56c61f75528dd98&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2620585938&vid=13014271870729196057&abtest=104959_1&klogid=2620585938
+地球停止转动,https://vd3.bdstatic.com/mda-mem9vnuwtgr54xap/sc/cae_h264_nowatermark/1621669012477359685/mda-mem9vnuwtgr54xap.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246421-0-0-43df7d18b16fcb80a32a208ca344c21e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2621359466&vid=2857733826325092047&abtest=104959_1&klogid=2621359466
+神秘代码,https://vd2.bdstatic.com/mda-mepg73a8hm4r0phw/sc/cae_h264_nowatermark/1621859031702853150/mda-mepg73a8hm4r0phw.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246546-0-0-14d97947057b9954c5ad441a46c75083&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2746387045&vid=2863164502740098356&abtest=104959_1&klogid=2746387045
+地心历险1,https://vd2.bdstatic.com/mda-meuhutyipz2q00bv/sc/cae_h264_nowatermark/1622293586842501315/mda-meuhutyipz2q00bv.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246422-0-0-caa97217f664033b4579006515d2dc22&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2622810214&vid=7682824065160714906&abtest=104959_1&klogid=2622810214
+地心历险2,https://vd4.bdstatic.com/mda-mewgfsgfbctitzmp/sc/cae_h264_nowatermark/1622463205833060533/mda-mewgfsgfbctitzmp.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246591-0-0-fc7e316ae1dd7c1ccbbd2d11405c0117&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2791331388&vid=8360607660826204485&abtest=104959_1&klogid=2791331388
+后天,https://vd4.bdstatic.com/mda-mf7fec4uu5a0mgtw/sc/cae_h264_nowatermark/1623151902014423513/mda-mf7fec4uu5a0mgtw.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246424-0-0-21f4dea22ae33d076df7e1e16de11b5c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2624466023&vid=11253284212529363478&abtest=104959_1&klogid=2624466023
+惊悚悬疑片1,https://vd4.bdstatic.com/mda-mg9gtyrf062zsih2/sc/cae_h264_nowatermark/1625918325321747681/mda-mg9gtyrf062zsih2.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246627-0-0-3c40917339649dfd9a4f2a683b9d2ad2&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2827858282&vid=4328919760194925172&abtest=104959_1&klogid=2827858282
+惊悚悬疑片2,https://vd2.bdstatic.com/mda-mg9gzuz31rkgp7sz/sc/cae_h264_nowatermark/1625919232513162404/mda-mg9gzuz31rkgp7sz.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246426-0-0-a7626719880c4897b64b638492c1ce61&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2626035880&vid=14665197821863818083&abtest=104959_1&klogid=2626035880
+惊悚悬疑片3,https://vd4.bdstatic.com/mda-mg9hbswb27xqg05r/sc/cae_h264_nowatermark/1625919843104633347/mda-mg9hbswb27xqg05r.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246690-0-0-5a365587679e02293bb288bd7f1f5a70&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2890465280&vid=10457234477404342368&abtest=104959_1&klogid=2890465280
+记忆之夜1,https://vd2.bdstatic.com/mda-mgchxh8d38vbmyeb/sc/cae_h264_nowatermark/1626180422062851626/mda-mgchxh8d38vbmyeb.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246718-0-0-f0af29a7960d1a525a23e9ea5ef7df11&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2918881582&vid=4998358724101959509&abtest=104959_1&klogid=2918881582
+记忆之夜2,https://vd2.bdstatic.com/mda-mgchxyh4hhhpjkmc/sc/cae_h264_nowatermark/1626180726983707276/mda-mgchxyh4hhhpjkmc.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246719-0-0-dab3c862721bd827b598dce6ec7765d1&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2919646805&vid=2772239958116153766&abtest=104959_1&klogid=2919646805
+记忆之夜3,https://vd3.bdstatic.com/mda-mgci593k83np1pa6/sc/cae_h264_nowatermark/1626180898012930991/mda-mgci593k83np1pa6.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246720-0-0-1b4b662de39f1fe6aac17081ea254be7&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2920517060&vid=6441351270507201237&abtest=104959_1&klogid=2920517060
+聚宝盆1,https://vd2.bdstatic.com/mda-mgfgrvyghci4204f/sc/cae_h264_nowatermark/1626436688593595899/mda-mgfgrvyghci4204f.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246760-0-0-1aab3547cb15a24b2add50d6a97a3080&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2960687820&vid=6758087669631050070&abtest=104959_1&klogid=2960687820
+聚宝盆2,https://vd4.bdstatic.com/mda-mgfgvfhzjkvfrw06/sc/cae_h264_nowatermark/1626436838693043512/mda-mgfgvfhzjkvfrw06.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246789-0-0-2ac417d6388eb239aa3159a0cf35db58&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2989835097&vid=16760567846522285892&abtest=104959_1&klogid=2989835097
+聚宝盆3,https://vd2.bdstatic.com/mda-mgfgvium6gmsgafd/sc/cae_h264_nowatermark/1626436844274204560/mda-mgfgvium6gmsgafd.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246790-0-0-ec42f553afab9f2868def5f72e8b5850&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2990426213&vid=6073128394309288160&abtest=104959_1&klogid=2990426213
+13骇人游戏1,https://vd2.bdstatic.com/mda-mgihkuepktgtd1ba/sc/cae_h264_nowatermark/1626697977747399896/mda-mgihkuepktgtd1ba.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246813-0-0-ada83f8db74a235270cca474ed563880&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3013302058&vid=6233265360836218196&abtest=104959_1&klogid=3013302058
+13骇人游戏2,https://vd2.bdstatic.com/mda-mgihrat63kff0n4b/sc/cae_h264_nowatermark/1626698164223579472/mda-mgihrat63kff0n4b.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246814-0-0-b0dbf5243c4b02426fa6fd8c6c831bd9&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3014050350&vid=16994173405666393000&abtest=104959_1&klogid=3014050350
+13骇人游戏3,https://vd4.bdstatic.com/mda-mgihtcepbegi4e9e/sc/cae_h264_nowatermark/1626698671136542474/mda-mgihtcepbegi4e9e.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246815-0-0-ff5c84f21813730480e02509097b7a0f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3014942884&vid=10485258828414676988&abtest=104959_1&klogid=3014942884
+受到伤害，就会吐出美钞1,https://vd3.bdstatic.com/mda-mgtgc8vved2kme88/sc/cae_h264_nowatermark/1627472909227572677/mda-mgtgc8vved2kme88.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246863-0-0-b25145103aebcf6a5144a55427778fff&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3063412712&vid=10169733263096115081&abtest=104959_1&klogid=3063412712
+受到伤害，就会吐出美钞2,https://vd4.bdstatic.com/mda-mgtggkg421ey4dw6/sc/cae_h264_nowatermark/1627473766274887033/mda-mgtggkg421ey4dw6.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246864-0-0-1224db18a5616dadf5bcce029957d1d3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3064165110&vid=15674187508269377805&abtest=104959_1&klogid=3064165110
+受到伤害，就会吐出美钞3,https://vd2.bdstatic.com/mda-mgtgii6wuaxb081i/sc/cae_h264_nowatermark/1627472724603589823/mda-mgtgii6wuaxb081i.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246865-0-0-68f13579a2d6b33b2f79f129295cdf98&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3065164262&vid=11041180988194260630&abtest=104959_1&klogid=3065164262
+电梯成精,https://vd4.bdstatic.com/mda-mh0imrckvfeu5ut5/sc/cae_h264_nowatermark/1627824622301771596/mda-mh0imrckvfeu5ut5.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246917-0-0-0598a5a94d7dfaea30f8c83970a1c7a2&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3117543104&vid=2418133119269076902&abtest=104959_1&klogid=3117543104
+极限大反杀,https://vd3.bdstatic.com/mda-mh3hxby2jhs4rgj3/sc/cae_h264_nowatermark/1628082325818346133/mda-mh3hxby2jhs4rgj3.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246939-0-0-0051c73406de708a52dcb9d2f6f64aa8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3139763195&vid=10633607301785099407&abtest=104959_1&klogid=3139763195
+死神设计的APP,https://vd3.bdstatic.com/mda-mhbh9h99p8npx2wd/sc/cae_h264_nowatermark/1628771417396154888/mda-mhbh9h99p8npx2wd.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246941-0-0-14c69968b932837d97d88b27f462283c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3140960405&vid=13928792707620626137&abtest=104959_1&klogid=3140960405
+神秘魔盒,https://vd3.bdstatic.com/mda-mheh8wshs7v8avt4/sc/cae_h264_nowatermark/1629030044797353788/mda-mheh8wshs7v8avt4.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246942-0-0-50dc3bce2dab7f5b155c753bf5bb018e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3142176142&vid=14022404770748064&abtest=104959_1&klogid=3142176142
+老爷车成精,https://vd3.bdstatic.com/mda-mhnjib1qa2cyzssv/sc/cae_h264_nowatermark/1629727605949483317/mda-mhnjib1qa2cyzssv.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246943-0-0-d72a55b159768b8ec072c43e97215957&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3143220258&vid=10756965815344959601&abtest=104959_1&klogid=3143220258
+一夜竟成亿万富翁,https://vd3.bdstatic.com/mda-mhphry5nyhi87zya/sc/cae_h264_nowatermark/1629809240598480906/mda-mhphry5nyhi87zya.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246944-0-0-49ff33610543fd3498098e247571d78d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3144509913&vid=3564711939186875784&abtest=104959_1&klogid=3144509913
+渣男怀孕了,https://vd2.bdstatic.com/mda-mhrjyqgiq2jdpv9i/sc/cae_h264_nowatermark/1629987447878077926/mda-mhrjyqgiq2jdpv9i.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666246947-0-0-e28b20baf488ca46b9c53451b1b93f30&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3146925451&vid=12309573131888319783&abtest=104959_1&klogid=3146925451
+特工被困孤岛,https://vd4.bdstatic.com/mda-mi04zifvad2vaf4s/sc/cae_h264_nowatermark/1630467742642015616/mda-mi04zifvad2vaf4s.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247082-0-0-d3112bb1f7a3a9f798ddebb8d3482c86&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3282528545&vid=12992361311021568888&abtest=104959_1&klogid=3282528545
+超能力,https://vd4.bdstatic.com/mda-mi5cqnhk5wb4ev92/sc/cae_h264_nowatermark/1630919919755156800/mda-mi5cqnhk5wb4ev92.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247112-0-0-5f91168d674e644bf66a2bbc85f7ff2b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3312097659&vid=6959627370827629668&abtest=104959_1&klogid=3312097659
+二维生物入侵三维世界,https://vd4.bdstatic.com/mda-mipf3gxiwuafv47k/sc/cae_h264_nowatermark/1632480571537530648/mda-mipf3gxiwuafv47k.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247128-0-0-024ded8807350eb2df0a50c88df51d90&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3327985110&vid=9354308015525327972&abtest=104959_1&klogid=3327985110
+任意穿越时空,https://vd3.bdstatic.com/mda-mjdg6kintbp775bx/sc/cae_h264_nowatermark/1634211442185414400/mda-mjdg6kintbp775bx.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247187-0-0-223f5f00457810c351507e5933d7ba76&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3387366934&vid=12240977858322702481&abtest=104959_1&klogid=3387366934
+致命钥匙1,https://vd3.bdstatic.com/mda-mjthi45d3utdg635/sc/cae_h264_delogo/1643520356695665657/mda-mjthi45d3utdg635.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247212-0-0-07264432a8621449a83210d4522a16d4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3412641750&vid=5260505372866452601&abtest=104959_1&klogid=3412641750
+致命钥匙2,https://vd2.bdstatic.com/mda-mjvh7vpjak86jjc8/sc/cae_h264_nowatermark/1635598303810212062/mda-mjvh7vpjak86jjc8.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247214-0-0-6c0609fe23f79ee1126320709bddf915&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3414293188&vid=806392487703942396&abtest=104959_1&klogid=3414293188
+致命钥匙3,https://vd2.bdstatic.com/mda-mjwfn5249efbj604/sc/cae_h264_nowatermark/1635678730475453888/mda-mjwfn5249efbj604.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247215-0-0-3629f33e516e81f8f2abb512c20f0f6e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3415379369&vid=271451054096273729&abtest=104959_1&klogid=3415379369
+恶魔法官1,https://vd4.bdstatic.com/mda-mk3g7qubnhvp2aup/sc/cae_h264_nowatermark/1636026646643902700/mda-mk3g7qubnhvp2aup.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247252-0-0-dc3f290b4396ade91e3bdc18e60d6ebd&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3452797832&vid=1851997477579714415&abtest=104959_1&klogid=3452797832
+恶魔法官2,https://vd4.bdstatic.com/mda-mk4hzp65ypb0rmxy/sc/cae_h264_delogo/1643437099549995957/mda-mk4hzp65ypb0rmxy.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247254-0-0-1bdd897c5c2f449174919b912a22d6b7&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3453924956&vid=17882156567399117852&abtest=104959_1&klogid=3453924956
+恶魔法官3,https://vd3.bdstatic.com/mda-mk5f8yi0uucdja7g/sc/cae_h264_nowatermark/1636197475038940044/mda-mk5f8yi0uucdja7g.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247255-0-0-5ef095e70250d77f38d3676e00980883&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3455278801&vid=4894929808804173811&abtest=104959_1&klogid=3455278801
+恶魔法官4,https://vd3.bdstatic.com/mda-mk6ii8isz1qrs5ck/haokan_t/dash/1659890529258865073/mda-mk6ii8isz1qrs5ck-2.mp4
+嚣张跋扈的小混混,https://vd2.bdstatic.com/mda-mm3gym8eatz7zg3i/720p/h264_delogo/1645605758507667280/mda-mm3gym8eatz7zg3i.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247374-0-0-cd729f7b51da7ddef9097a1456a9d375&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3574052373&vid=10247060142711392463&abtest=104959_1&klogid=3574052373
+泡菜国国王做梦预知未来,https://vd4.bdstatic.com/mda-nakg5e91h72ax5k7/sc/cae_h264_nowatermark_delogo/1642764978159686110/mda-nakg5e91h72ax5k7.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247433-0-0-54ee64ec4acc42c8e9956a8184211ca5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0033091665&vid=11390536235731835008&abtest=104959_1&klogid=0033091665
+泡菜国寒酸的早餐,https://vd2.bdstatic.com/mda-ncvg1rsegwc1a9qf/sc/cae_h264_delogo/1648642022833795804/mda-ncvg1rsegwc1a9qf.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247508-0-0-739df896ee152b38b182edcf425375bd&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0108601105&vid=6198427640890416936&abtest=104959_1&klogid=0108601105
+韩兵有多惨,https://vd4.bdstatic.com/mda-ndmi5ige7qhhk2b2/sc/cae_h264_delogo/1650632509157705264/mda-ndmi5ige7qhhk2b2.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247558-0-0-ac89cce1e62d64fc83871be67ea49c28&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0158670446&vid=10214651675640610425&abtest=104959_1&klogid=0158670446
+韩军有多黑暗,https://vd4.bdstatic.com/mda-ndnfdrbbark3azwc/sc/cae_h264_delogo/1650712614130444678/mda-ndnfdrbbark3azwc.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247559-0-0-3a347da88e7cde97947a0fd8c2906d3e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0159788122&vid=4335830460788183015&abtest=104959_1&klogid=0159788122
+30个亿打造可怕直,https://vd3.bdstatic.com/mda-ndu4gzsr8q5y9tgf/haokan_t/dash/1658439920225495568/mda-ndu4gzsr8q5y9tgf-1.mp4
+被连杀1000次A,https://vd3.bdstatic.com/mda-ne4gvu8ivf81kyc0/sc/cae_h264_delogo/1651755319437542582/mda-ne4gvu8ivf81kyc0.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247740-0-0-4cfbf1b504ab0d825edea9e24ee9ea11&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0340005932&vid=5512219276967781924&abtest=104959_1&klogid=0340005932
+被连杀1001次B,https://vd3.bdstatic.com/mda-ne4hes79xsi35ry3/haokan_t/dash/1658688623639173767/mda-ne4hes79xsi35ry3-1.mp4
+被连杀1002次C,https://vd2.bdstatic.com/mda-ne4hmt4me6e7p78z/sc/cae_h264_delogo/1651757052123802735/mda-ne4hmt4me6e7p78z.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247667-0-0-c33a83addac48ec5ba2e2172b797b7cb&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0267549793&vid=4536725851156511639&abtest=104959_1&klogid=0267549793
+特工界的天花板,https://vd3.bdstatic.com/mda-nerct5rx90jstw8i/haokan_t/dash/1658178783452566771/mda-nerct5rx90jstw8i-1.mp4
+最强越狱,https://vd2.bdstatic.com/mda-nerddtet2drmxp24/sc/cae_h264/1653558317926237633/mda-nerddtet2drmxp24.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247860-0-0-977ee496c021ef11a1bae1155ec0d84b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0460203570&vid=8617091490995056913&abtest=104959_1&klogid=0460203570
+独闯航母,https://vd3.bdstatic.com/mda-nere8xdhs2x60nfr/haokan_t/dash/1660710307833447216/mda-nere8xdhs2x60nfr-1.mp4
+撞炸火车,https://vd2.bdstatic.com/mda-nerf72u0g3iq11t4/sc/cae_h264/1653563527691499557/mda-nerf72u0g3iq11t4.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247876-0-0-4ae0c0542c42dd34e0fabda88c5bfb14&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0476147414&vid=14190517827558848856&abtest=104959_1&klogid=0476147414
+神秘病毒1,https://vd2.bdstatic.com/mda-nikiftzsztc6rjh7/sc/cae_h264/1663781548697756811/mda-nikiftzsztc6rjh7.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248785-0-0-11924027b874df288fa62ab348a4a041&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1385025219&vid=10863127717576944933&abtest=104959_1&klogid=1385025219
+神秘病毒2,https://vd2.bdstatic.com/mda-nikify05jgjnhk9n/sc/cae_h264/1663766933910765645/mda-nikify05jgjnhk9n.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248786-0-0-be43a35d94c8abf6bff6f97b29874f8f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1386128615&vid=9035252036973964906&abtest=104959_1&klogid=1386128615
+神秘病毒3,https://vd3.bdstatic.com/mda-nikk2ugu3iayng8u/haokan_t/dash/1663813658907998044/mda-nikk2ugu3iayng8u-1.mp4
+杀手界的天花板1,https://vd2.bdstatic.com/mda-nini6bcmy3tiy5ag/sc/cae_h264/1663938849712077131/mda-nini6bcmy3tiy5ag.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248832-0-0-087ffa938dda95f573bd4b9b72cb9282&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1432092740&vid=16576633711149652200&abtest=104959_1&klogid=1432092740
+杀手界的天花板2,https://vd3.bdstatic.com/mda-nipetmvi6tge9bkb/haokan_t/dash/1664079691706087572/mda-nipetmvi6tge9bkb-1.mp4
+杀手界的天花板3,https://vd3.bdstatic.com/mda-nipetr9nsz47jmte/sc/cae_h264/1664017347547873526/mda-nipetr9nsz47jmte.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248855-0-0-79028ee3be81d5ca8840af954a223ca9&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1455646006&vid=11794363024675763271&abtest=104959_1&klogid=1455646006
 
-CCTV17,http://39.134.65.181/PLTV/88888888/224/3221225708/index.m3u8
-CCTV17,http://39.134.65.183/PLTV/88888888/224/3221225708/index.m3u8
-CCTV-1综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
-CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
-CCTV-2财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-CCTV-3综艺,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
-CCTV-3综艺,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
-CCTV-4国际,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
-CCTV-5体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
-CCTV-5+赛事,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
-CCTV-2财经,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
-CCTV-2财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-CCTV-3综艺,http://39.135.138.58:18890/PLTV/88888910/224/3221225647/index.m3u8
-CCTV-3综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
-CCTV-3综艺,http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8
-CCTV-3综艺,http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
-CCTV-4中文国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-CCTV-4中文国际,http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8
-CCTV-4中文国际,http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8
+央视频道,#genre#
+CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8
+CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225642/index.m3u8
+CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225762/index.m3u8
+CCTV2,http://39.134.115.221:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://39.134.115.221:8080/PLTV/88888910/224/3221225643/index.m3u8
+CCTV3,http://39.134.115.221:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV3,http://39.134.115.221:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV4,http://39.134.115.221:8080/PLTV/88888910/224/3221225621/index.m3u8
+CCTV5,http://39.134.115.221:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://39.134.115.221:8080/PLTV/88888910/224/3221225751/index.m3u8
+CCTV5,http://39.134.115.221:8080/PLTV/88888910/224/3221225752/index.m3u8
+CCTV5,http://39.134.115.221:8080/PLTV/88888910/224/3221225753/index.m3u8
+CCTV5,http://39.134.115.221:8080/PLTV/88888910/224/3221225754/index.m3u8
+CCTV5,http://39.134.115.221:8080/PLTV/88888910/224/3221225755/index.m3u8
+CCTV5,http://39.134.115.221:8080/PLTV/88888910/224/3221225756/index.m3u8
+CCTV5+,http://39.134.115.221:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5+,http://39.134.115.221:8080/PLTV/88888910/224/3221225706/index.m3u8
+CCTV6,http://39.134.115.221:8080/PLTV/88888910/224/3221225632/index.m3u8
+CCTV6,http://39.134.115.221:8080/PLTV/88888910/224/3221225650/index.m3u8
+CCTV7,http://39.134.115.221:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV7,http://39.134.115.221:8080/PLTV/88888910/224/3221225644/index.m3u8
+CCTV8,http://39.134.115.221:8080/PLTV/88888910/224/3221225631/index.m3u8
+CCTV8,http://39.134.115.221:8080/PLTV/88888910/224/3221225635/index.m3u8
+CCTV9,http://39.134.115.221:8080/PLTV/88888910/224/3221225626/index.m3u8
+CCTV9,http://39.134.115.221:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV10,http://39.134.115.221:8080/PLTV/88888910/224/3221225627/index.m3u8
+CCTV10,http://39.134.115.221:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV11,http://39.134.115.221:8080/PLTV/88888910/224/3221225628/index.m3u8
+CCTV12,http://39.134.115.221:8080/PLTV/88888910/224/3221225629/index.m3u8
+CCTV12,http://39.134.115.221:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV13,http://39.134.115.221:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV14,http://39.134.115.221:8080/PLTV/88888910/224/3221225639/index.m3u8
+CCTV14,http://39.134.115.221:8080/PLTV/88888910/224/3221225640/index.m3u8
+CCTV15,http://39.134.115.221:8080/PLTV/88888910/224/3221225641/index.m3u8
+CETV,http://39.134.115.221:8080/PLTV/88888910/224/3221225661/index.m3u8
+CGTN,http://39.134.115.221:8080/PLTV/88888910/224/3221225747/index.m3u8
+CGTN记录,http://39.134.115.221:8080/PLTV/88888910/224/3221225645/index.m3u8
+CNC,http://39.134.115.221:8080/PLTV/88888910/224/3221225693/index.m3u8
+CNC2,http://39.134.115.221:8080/PLTV/88888910/224/3221225694/index.m3u8
+CCTV1,http://219.142.151.179:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://219.142.151.179:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://219.142.151.179:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://219.142.151.179:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://219.142.151.179:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://219.142.151.179:9901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV-4欧洲,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226741/10000100000000060000000006582740_0.smil
-CCTV-4美洲,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226762/10000100000000060000000006582745_0.smil
-CCTV-4欧洲,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
-CCTV-4美洲,http://39.136.48.20:8089/PLTV/88888888/224/3221226395/index.m3u8
-CCTV-5体育,http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
-
-CCTV-6电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-CCTV-6电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
-CCTV-7军事,http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
-
-CCTV-7军事,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
-CCTV-8电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-CCTV-8电视剧,http://111.40.196.9/PLTV/88888888/224/3221225592/index.m3u8
-CCTV-8电视剧,http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8
-CCTV-8电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
-CCTV-8电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
-CCTV-9记录,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
-CCTV-9记录,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
-CCTV-9记录,http://111.40.196.9/PLTV/88888888/224/3221225502/index.m3u8
-CCTV-10科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
-CCTV-10科教,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
-CCTV-10科教,http://111.20.33.93/TVOD/88888893/224/3221226189/index.m3u8
-CCTV-11戏曲,http://111.20.33.93/TVOD/88888893/224/3221226240/index.m3u8
-
-
-CCTV-12社会与法,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
-CCTV-13新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-CCTV-13新闻,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-CCTV-14少儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
-CCTV-14少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
-CCTV-15音乐,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
-CCTV-16奥林匹克,http://111.20.33.93/TVOD/88888893/224/3221226921/index.m3u8
-CCTV-17农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P
+CCTV6,http://219.142.151.179:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://219.142.151.179:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://219.142.151.179:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://219.142.151.179:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://219.142.151.179:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://219.142.151.179:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://219.142.151.179:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://219.142.151.179:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://219.142.151.179:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://219.142.151.179:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://219.142.151.179:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://219.142.151.179:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合,http://125.40.191.58:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://125.40.191.58:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://125.40.191.58:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://125.40.191.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://125.40.191.58:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://125.40.191.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://125.40.191.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://125.40.191.58:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://125.40.191.58:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://125.40.191.58:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://125.40.191.58:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://125.40.191.58:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://125.40.191.58:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://125.40.191.58:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://125.40.191.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 大陆省市,#genre#
+东方卫视,http://112.19.214.90:8883/tsfile/live/0107_1.m3u8
+贵州卫视,http://112.19.214.90:8883/tsfile/live/0120_1.m3u8
+北京卫视,http://112.19.214.90:8883/tsfile/live/0122_1.m3u8
+四川卫视,http://112.19.214.90:8883/tsfile/live/0123_1.m3u8
+广东卫视,http://112.19.214.90:8883/tsfile/live/0125_1.m3u8
+浙江卫视,http://112.19.214.90:8883/tsfile/live/0124_1.m3u8
+深圳卫视,http://112.19.214.90:8883/tsfile/live/0126_1.m3u8
+江苏卫视,http://112.19.214.90:8883/tsfile/live/0127_1.m3u8
+湖南卫视,http://112.19.214.90:8883/tsfile/live/0128_1.m3u8
+山东卫视,http://112.19.214.90:8883/tsfile/live/0131_1.m3u8
+湖北卫视,http://112.19.214.90:8883/tsfile/live/0132_1.m3u8
+安徽卫视,http://112.19.214.90:8883/tsfile/live/0130_1.m3u8
+天津卫视,http://112.19.214.90:8883/tsfile/live/0135_1.m3u8
+青海卫视,http://112.19.214.90:8883/tsfile/live/0140_1.m3u8
+重庆卫视,http://112.19.214.90:8883/tsfile/live/0142_1.m3u8
+海南卫视,http://112.19.214.90:8883/tsfile/live/1000_1.m3u8
+新疆卫视,http://112.19.214.90:8883/tsfile/live/0110_1.m3u8
+云南卫视,http://112.19.214.90:8883/tsfile/live/0119_1.m3u8
+西藏卫视,http://112.19.214.90:8883/tsfile/live/0111_1.m3u8
+黑龙江卫视,http://112.19.214.90:8883/tsfile/live/0143_1.m3u8
+康巴卫视,http://112.19.214.90:8883/tsfile/live/1010_1.m3u8
 东南卫视 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
 东南卫视 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
 东方卫视 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
@@ -174,7 +264,8 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P
 黑龙江卫视 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
 黑龙江卫视 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
 黑龙江卫视 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
-
+公众号：放学回家看电视
+本资源仅作为个人JDK学习测试之用，请勿作商业之用
 北京卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
 深圳卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
 湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
@@ -275,37 +366,7 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P
 
 数字频道,#genre#
 
-第一剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
-风云剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-怀旧剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-世界地理,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-世界地理,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-风云音乐,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
-兵器科技,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-风云足球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-女性时尚,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-央视精品,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-电视指南,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-卫生健康,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-第一剧场,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226698/10000100000000060000000006385142_0.smil
-怀旧剧场,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226700/10000100000000060000000006385151_0.smil
-风云剧场,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226671/10000100000000060000000006385152_0.smil
-风云音乐,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226718/10000100000000060000000006385496_0.smil
-女性时尚,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226675/10000100000000060000000006385156_0.smil
-风云足球,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226702/10000100000000060000000006385159_0.smil
-央视文化精品,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226677/10000100000000060000000006385162_0.smil
-兵器科技,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226704/10000100000000060000000006385167_0.smil
-央视台球,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226706/10000100000000060000000006385172_0.smil
-世界地理,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226679/10000100000000060000000006385175_0.smil
-电视指南,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226708/10000100000000060000000006385178_0.smil
-风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
-风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
-风云剧场,http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
-央视文化精品,http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
-风云剧场,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
-兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
-世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
+
 CHC高清影视,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
 CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
@@ -316,7 +377,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CNC英文,http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
 CNC中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
-
 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8?zshijd
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
@@ -324,7 +384,7 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?zshijd
 CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
-CGTN,http://39.136.48.29:8089/PLTV/88888888/224/3221226320/index.m3u8
+SKY SPROTS,http://206.221.176.47:64003
 CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -333,271 +393,137 @@ CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 CGTN阿拉伯语,http://livear.cgtn.com/1000a/prog_index.m3u8?zshijd
 CGTN拉丁美洲,http://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 CGTN美国,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
-CGTN(Opt_1),http://live.cgtn.com/500/prog_index.m3u8?zshijd
-Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
-美国CGTN,http://live.cgtn.com/500/prog_index.m3u8?zshijd
+
 CGTNРусский,http://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 拉丁美洲CGTN,http://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
-CCM,http://27.47.68.22:808/hls/62/index.m3u8
-CHC家庭影院,http://27.47.68.22:808/hls/60/index.m3u8
-CHC动作电影,http://27.47.68.22:808/hls/56/index.m3u8
-中国电影,http://27.47.68.22:808/hls/61/index.m3u8
-中国天气,http://27.47.68.22:808/hls/47/index.m3u8
-中国天气,http://27.47.68.22:808/hls/46/index.m3u8
-CCTV文化精品,http://27.47.68.22:808/hls/44/index.m3u8
-CCTV怀旧剧场,http://27.47.68.22:808/hls/40/index.m3u8
-CCTV风云足球,http://27.47.68.22:808/hls/41/index.m3u8
-CCTV风云音乐,http://27.47.68.22:808/hls/39/index.m3u8
-CCTV风云剧场,http://27.47.68.22:808/hls/42/index.m3u8
-CCTV第一剧场,http://27.47.68.22:808/hls/43/index.m3u8
-CCTV5+,http://27.47.68.22:808/hls/45/index.m3u8
-CCTV4,http://146.56.155.239:9000/jmsytb.m3u8?c=01
 
 
 
-港湾,#genre#
-民视,rtmp://59.124.75.138/sat/tv051
-台视,rtmp://59.124.75.138/sat/tv071
-中视,rtmp://59.124.75.138/sat/tv091
-华视,rtmp://59.124.75.138/sat/tv111
-TVBS新闻台,rtmp://59.124.75.138/sat/tv551
-TVBS欢乐台,rtmp://59.124.75.138/sat/tv421
-东森财经新闻台,rtmp://59.124.75.138/sat/tv571
-纬来育乐台,rtmp://59.124.75.138/sat/tv701
-纬来体育台,rtmp://59.124.75.138/sat/tv721
-ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN2,rtmp://59.124.75.138/sat/tv741
-纬来日本台,rtmp://59.124.75.138/sat/tv771
-MOMO综合,rtmp://59.124.75.138/sat/tv761
-爱尔达体育1,rtmp://59.124.75.138/sat/md011
-爱尔达体育2,rtmp://59.124.75.138/sat/md021
-博斯网球台,rtmp://59.124.75.138/sat/md031
-爱尔达体育3,rtmp://59.124.75.138/sat/md041
-ELEVEN2,rtmp://59.124.75.138/sat/md051
-民视,rtmp://59.124.75.150/sat/tv051
-台视,rtmp://59.124.75.150/sat/tv071
-中视,rtmp://59.124.75.150/sat/tv091
-华视,rtmp://59.124.75.150/sat/tv111
-TVBS新闻,rtmp://59.124.75.150/sat/tv551
-TVBS欢乐,rtmp://59.124.75.150/sat/tv421
-东森财经新闻,rtmp://59.124.75.150/sat/tv571
-纬来育乐台,rtmp://59.124.75.150/sat/tv701
-纬来体育台,rtmp://59.124.75.150/sat/tv721
-ELEVEN1,rtmp://59.124.75.150/sat/tv731
-ELEVEN2,rtmp://59.124.75.150/sat/tv741
-纬来日本,rtmp://59.124.75.150/sat/tv771
-爱尔达体育1,rtmp://59.124.75.138/sat/md011
-爱尔达体育2,rtmp://59.124.75.138/sat/md021
-博斯网球台,rtmp://59.124.75.138/sat/md031
-ELTA体育3,rtmp://59.124.75.138/sat/md041
-ELEVEN2,rtmp://59.124.75.138/sat/md051
-民视,rtmp://59.124.75.150/sat/tv051
-台视,rtmp://59.124.75.150/sat/tv071
-中视,rtmp://59.124.75.150/sat/tv091
-华视,rtmp://59.124.75.150/sat/tv111
-TVBS新闻,rtmp://59.124.75.150/sat/tv551
-TVBS欢乐,rtmp://59.124.75.150/sat/tv421
-东森财经新闻台,rtmp://59.124.75.150/sat/tv571
-纬来育乐台,rtmp://59.124.75.150/sat/tv701
-纬来体育台,rtmp://59.124.75.150/sat/tv721
-ELEVEN1,rtmp://59.124.75.150/sat/tv731
-ELEVEN2,rtmp://59.124.75.150/sat/tv741
-纬来日本台,rtmp://59.124.75.150/sat/tv771
-MOMO综合,rtmp://59.124.75.150/sat/tv761
-博斯网球台,rtmp://59.124.75.150/sat/md031
-中天新闻台,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
-中视,rtmp://59.124.75.150/sat/tv091
-中视,rtmp://59.124.75.138:1935/sat/tv091
-中视,rtmp://59.124.75.138/sat/tv091
-台视,rtmp://59.124.75.150/sat/tv071
-台视,rtmp://59.124.75.138:1935/sat/tv071
-台视,rtmp://59.124.75.138/sat/tv071
-民视,rtmp://59.124.75.150/sat/tv051
-民视,rtmp://59.124.75.138:1935/sat/tv051
-民视,rtmp://59.124.75.138/sat/tv051
-华视,rtmp://59.124.75.150/sat/tv111
-华视,rtmp://59.124.75.138:1935/sat/tv111
-华视,rtmp://59.124.75.138/sat/tv111
-TVBS新闻台,rtmp://59.124.75.150/sat/tv551
-TVBS新闻台,rtmp://59.124.75.138:1935/sat/tv551
-TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
-TVBS欢乐台,rtmp://59.124.75.138:1935/sat/tv421
-TVBS欢乐台,rtmp://59.124.75.138:1935/sat/tv421
-TVBS欢乐台,rtmp://59.124.75.138/sat/tv421
-东森财经新闻台,rtmp://59.124.75.150/sat/tv571
-东森财经新闻台,rtmp://59.124.75.138/sat/tv571
-东森财经新闻台,rtmp://59.124.75.138:1935/sat/tv571
-东森超视,rtmp://59.124.75.138:1935/sat/tv331
-纬来育乐台,rtmp://59.124.75.150/sat/tv701
-纬来育乐台,rtmp://59.124.75.138:1935/sat/tv701
-纬来育乐台,http://123.51.229.65:18541/.m3u8
-纬来育乐台,rtmp://59.124.75.138/sat/tv701
-纬来体育台,rtmp://59.124.75.150/sat/tv721
-纬来体育台,rtmp://59.124.75.138:1935/sat/tv721
-纬来体育台,rtmp://59.124.75.138/sat/tv721
-纬来日本台,rtmp://59.124.75.150/sat/tv771
-纬来日本台,rtmp://59.124.75.138:1935/sat/tv771
-纬来日本台,rtmp://59.124.75.138/sat/tv771
-MOMO综合,rtmp://59.124.75.138:1935/sat/tv761
-MOMO综合,rtmp://59.124.75.150/sat/tv761
-MOMO综合,rtmp://59.124.75.138/sat/tv761
 
-新加坡,#genre#
-Suria,http://165.173.4.235:9981/stream/channelid/445323830?ticket=B7172E8B7BB04F2C7AA00FEDDD317EF39909B6C4&profile=pass
-Channel 5,http://165.173.4.235:9981/stream/channelid/1693548399?ticket=282F574D7BF2372B646CCC3D612D84033639FB2F&profile=pass
-NTV7,http://165.173.4.235:9981/stream/channelid/1122411260?ticket=ED1D67E5FE92D5A31B70588A129138A18E4D5F32&profile=pass
-TVS,http://165.173.4.235:9981/stream/channelid/716648871?ticket=E379F20B4FFF39E46C8AAA0ACB28690E0EFD2BCC&profile=pass
-Awesome TV HD,http://165.173.4.235:9981/stream/channelid/324494353?ticket=5BF439342BBB01E59E296FEB83AE7C8FFA284158&profile=pass
-TV3 HD,http://165.173.4.235:9981/stream/channelid/805111893?ticket=A51D2BB2B891AE0D162EE1BDE7F211969A5989DD&profile=pass
 
-TV9,http://165.173.4.235:9981/stream/channelid/1221234499?ticket=558172D681AB270FBFBAA64EA91E7A29F5266420&profile=pass
-SukeTV,http://165.173.4.235:9981/stream/channelid/331491366?ticket=40C79C582D46C2D5604353A10B84829CBDB890AD&profile=pass
-Go Shop,http://165.173.4.235:9981/stream/channelid/1567069723?ticket=6F9FCFE2892184CB7091B3676A10BC1573BF707D&profile=pass
-WOWSHOP,http://165.173.4.235:9981/stream/channelid/1454354007?ticket=0DC408559702C01096B9C18C7DFCFAA6F1E57A61&profile=pass
-WOWSHOP,http://165.173.4.235:9981/stream/channelid/1700524535?ticket=10B41A99BABC47DBD571BC7DC30F1023C49EA047&profile=pass
+港湾TV,#genre#
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+TVB明珠,http://120.84.96.63:808/hls/26/index.m3u8
+TVB翡翠,http://120.84.96.63:808/hls/25/index.m3u8
+TVB星河,http://206.221.176.47:64020无线财经,http://120.84.96.74:808/hls/86/index.m3u8
+千禧经典台,http://206.221.176.47:64002
 
-韩国,#genre#
-SBS Plus,http://218.232.192.244:9981/stream/channelid/1952895652?ticket=C56281B31FF25776DF9E5A327936B9048527BCC7&profile=pass
-홈&쇼핑[0*0],http://218.232.192.244:9981/stream/channelid/1638554909?ticket=7704F4EA7EC89BF3676E115DF464C4684357D80A&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/1000447289?ticket=F49538E381D3FC03ED80B0AFCF588BC107205336&profile=pass
-현대홈쇼핑[0*0],http://218.232.192.244:9981/stream/channelid/302498498?ticket=54BBDCDE7652866054D9D49FBE482037F02EF12F&profile=pass
-롯데홈쇼핑,http://218.232.192.244:9981/stream/channelid/294766095?ticket=215F0681B9790E37F95753AA8A52879712AD0A3C&profile=pass
-MBC,http://218.232.192.244:9981/stream/channelid/2058151557?ticket=202C0FF583D0C04FDAED2D0F7B24F025D77871CA&profile=pass
-GS SHOP,http://218.232.192.244:9981/stream/channelid/1077050998?ticket=2F4CFBE4AB1294ABBEC7C483C9ABA2317C3FF345&profile=pass
-NS홈쇼핑,http://218.232.192.244:9981/stream/channelid/720897364?ticket=9AF3129E4CAE85922E8C1CF9EEB2232BF5C8713E&profile=pass
-JTBC,http://218.232.192.244:9981/stream/channelid/1664640671?ticket=C029C92BB3EB7AD9733EC7C95D56511F8A244FB0&profile=pass
-tvN,http://218.232.192.244:9981/stream/channelid/1816570760?ticket=E21C44FD5329CC121A7ECF89200D5E717A16852A&profile=pass
-TV조선,http://218.232.192.244:9981/stream/channelid/1708124469?ticket=CB78837A7239CCD611B3A75677603F57A05325D0&profile=pass
-TV조선,http://218.232.192.244:9981/stream/channelid/1993311582?ticket=765CC5073F9B6862D88F2E171E677FE1030F25FF&profile=pass
-OBS,http://218.232.192.244:9981/stream/channelid/662211822?ticket=6F0F25251C3BB5CA2D30A40020235E4B122754B4&profile=pass
-연합뉴스TV,http://218.232.192.244:9981/stream/channelid/1482549480?ticket=3271EFBB8C4989D6BCAD8794EF2E3C4A6EC42076&profile=pass
-연합뉴스TV[0*0],http://218.232.192.244:9981/stream/channelid/757663768?ticket=BEFA8B8B77F9DA6D22F0BB718E0111BDC18646FE&profile=pass
-YTN,http://218.232.192.244:9981/stream/channelid/1441751218?ticket=AA4AC35635A0EF84FCCFEF1A7F34E3290A3812CE&profile=pass
-SBS CNBC,http://218.232.192.244:9981/stream/channelid/698108872?ticket=50C8546FFFD04E6BEAF555E1CD03B82DCB2F7E47&profile=pass
-Mnet,http://218.232.192.244:9981/stream/channelid/980684761?ticket=0223C9237CBCA808F8208842A36C4446C6FFAEBE&profile=pass
-MBC Every1,http://218.232.192.244:9981/stream/channelid/1370170376?ticket=FAF58FBC26E63F769E60A0F0F41725CE27F95989&profile=pass
-GS MY SHOP,http://218.232.192.244:9981/stream/channelid/1703784517?ticket=0E397E8336AEEF47DCCB44EAE4E59E452FD7000B&profile=pass
-KBS DRAMA,http://218.232.192.244:9981/stream/channelid/15021754?ticket=1B651EAC1DF2D33B3EB472C29BAD73FA7FFF46C1&profile=pass
-KBS DRAMA,http://218.232.192.244:9981/stream/channelid/1533674152?ticket=46A831070F6E6FC6432550BCD709937DC562F078&profile=pass
-CJ오쇼핑 플러스,http://218.232.192.244:9981/stream/channelid/910137551?ticket=0C289D2DB33C95973B2536C155AFD164ED536578&profile=pass
-올리브,http://218.232.192.244:9981/stream/channelid/919245585?ticket=13EBDFCE99B1B76A5BD271B9DB5183E4C99DB9E1&profile=pass
-롯데원티비,http://218.232.192.244:9981/stream/channelid/314043299?ticket=882E1663EE3A00159957C172E463D3E76048037C&profile=pass
-SkyDrama,http://218.232.192.244:9981/stream/channelid/1044036431?ticket=35DD812CC1F42FBBDE6A1462979AB3F5F225CAD8&profile=pass
-CNTV,http://218.232.192.244:9981/stream/channelid/601230177?ticket=DDA710121DD82358E0BF102372AE5D6104EE2B8B&profile=pass
-Edge TV,http://218.232.192.244:9981/stream/channelid/1053116361?ticket=381E7436F75B6637CB0D58F901D97280F7FF3D89&profile=pass
-드라마H,http://218.232.192.244:9981/stream/channelid/1488486339?ticket=2595064F15A143DB62F2CFB025269DD1932C9070&profile=pass
-캐치온1,http://218.232.192.244:9981/stream/channelid/1827808592?ticket=4B25FFB9192795BF1E5259BEDB1203CECA2843D3&profile=pass
-OCN,http://218.232.192.244:9981/stream/channelid/694267098?ticket=C522655C6994E37778DFA49BE7F631F1149AEBCC&profile=pass
-mplex,http://218.232.192.244:9981/stream/channelid/507389546?ticket=AEFA2B7C8CD44101D989F130075D53310B4FD832&profile=pass
-ASIAM,http://218.232.192.244:9981/stream/channelid/261984954?ticket=05C17A1EA6F03EF4BE9E452555F2F05EFE181134&profile=pass
-JTBC2,http://218.232.192.244:9981/stream/channelid/1644485691?ticket=9784269D3538C46F069B951352B23F1E8339168B&profile=pass
-JTBC2,http://218.232.192.244:9981/stream/channelid/410636271?ticket=5C6D8BFF69D0879FA5197E2C9DCA9862E921F11A&profile=pass
-E채널,http://218.232.192.244:9981/stream/channelid/694416187?ticket=C7B9A9472627EF397BCA55F843191BAF5B484919&profile=pass
-AMC,http://218.232.192.244:9981/stream/channelid/600787559?ticket=90FBBDEE3490B788CFF0E9BC32217CA6E754B642&profile=pass
-SPOTV ON2,http://218.232.192.244:9981/stream/channelid/1087114129?ticket=842E6325E7C9ACCB747D6DCA3D1882223114AA60&profile=pass
-MBC SPORTS+,http://218.232.192.244:9981/stream/channelid/1284391878?ticket=A8246950901DB35DC2F372E91F56001FF7AD5CE2&profile=pass
-JTBC3,http://218.232.192.244:9981/stream/channelid/905590880?ticket=16586A6A30201D275D1DF3764EE8D274D892D1C3&profile=pass
-IB SPORTS,http://218.232.192.244:9981/stream/channelid/1121109612?ticket=7EF6741CBE577D8D53AEC9A5CE2098500E19A45D&profile=pass
-SBS GOLF,http://218.232.192.244:9981/stream/channelid/30285970?ticket=3295B71E7D6FB9A83AD7B5EADE3F0F0F7BFD0061&profile=pass
-JTBC Golf,http://218.232.192.244:9981/stream/channelid/1865298993?ticket=846462E0B3CED42130A15AE8C74F6B46371438DF&profile=pass
-JTBC Golf,http://218.232.192.244:9981/stream/channelid/1898820290?ticket=81C4A4F4F1EA55E2FFFB9B917562C21B6CE462B0&profile=pass
-한국경제TV,http://218.232.192.244:9981/stream/channelid/717945221?ticket=5BA178323200ADF332B7CBA0E065DDEF97ECB71D&profile=pass
-아시아경제TV,http://218.232.192.244:9981/stream/channelid/947498708?ticket=A09259004BA83EB8F7D38A84C7BE70BD818E9CB0&profile=pass
-니켈로디언,http://218.232.192.244:9981/stream/channelid/775429488?ticket=1B354A27F1F52A3A5A69CF1A92B2AC15CAE5789B&profile=pass
-BET,http://218.232.192.244:9981/stream/channelid/847545166?ticket=365894558CEC5E6012A200BFCD363C82C2C2AE55&profile=pass
-G1 강원민방,http://218.232.192.244:9981/stream/channelid/1058840007?ticket=351D28FD76C6B83A0219C1EA799C5E4CAF76B5B3&profile=pass
-JIBS 제주방송[0*0],http://218.232.192.244:9981/stream/channelid/1238191471?ticket=938F26AD2F8D8EA451C3945AEDAB27A10FC6F9F3&profile=pass
-KBC 광주방송,http://218.232.192.244:9981/stream/channelid/1304696470?ticket=09C83CF1F374689D5CF5F5267D342FCA1E8CA3BE&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/955417350?ticket=ABB838096DA88ABF315C48D9F6EF74A6FF89715A&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/1929216755?ticket=E38C971301C78E1D4DF98A5E8146206C37D6BE87&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/726791944?ticket=4667436B7789E5E7929C5C49FE0BB679B2940711&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/578306318?ticket=F97BE5FC1502EB83F2224225CC571C4F3C868D88&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/445811192?ticket=62CA889782ADBE62481172DE3B25F91437EE9694&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/334955675?ticket=634341248563E96161280CBCDCE4CE9B2AA38F51&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/311803860?ticket=AC4493402F29EAFDEEB191A63A969BAE33CEEDD3&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/46770276?ticket=456E980DB2B20171B87CD9BECD7DCC093F292AD8&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/58978377?ticket=D1D3347C9422E93A970FAB0356E618002AA00C5F&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/1992582829?ticket=6E775146049ED0F862EF6CC7F23EA32C9B691F84&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/1614803987?ticket=A88E14A816F49E48D4F074ED3AF9CEDF0A669A88&profile=pass
-KBS2,http://218.232.192.244:9981/stream/channelid/1167680749?ticket=5F11EBAAABA83774CEBEF23FC0814D3487911432&profile=pass
-KNN 부산경남방송,http://218.232.192.244:9981/stream/channelid/1836444043?ticket=7C144445BB6183D7EE02CFA54F8F841865269D91&profile=pass
-MBC,http://218.232.192.244:9981/stream/channelid/1850142105?ticket=19CC424F1420C1A202C52A1BD75E5EDBD540D504&profile=pass
-MBC,http://218.232.192.244:9981/stream/channelid/1359159645?ticket=4D06F4AB0F8130D3053F253F323C39927503F69C&profile=pass
-MBC,http://218.232.192.244:9981/stream/channelid/1605308520?ticket=8C1C57B9F2B1F33026AD7C0A6D71BACEEFD0C96A&profile=pass
-MBC,http://218.232.192.244:9981/stream/channelid/1753272272?ticket=0D546D739F3341CA56E4A3498E1530F6B7780EDC&profile=pass
-MBC,http://218.232.192.244:9981/stream/channelid/386227697?ticket=914E949168910B38C29933F61DC89BBFA28B6A93&profile=pass
-TBC 대구방송,http://218.232.192.244:9981/stream/channelid/1039089287?ticket=77DC58C3371D92FDE8759C283B80598A80A1549D&profile=pass
-UBC 울산방송,http://218.232.192.244:9981/stream/channelid/1971744527?ticket=F22943BD41C615890261F2E2A0410F8FB304CF62&profile=pass
-National Geographic,http://218.232.192.244:9981/stream/channelid/2088799471?ticket=97096ED1FB335F9FDB43E54CB0A0710477DA6FA7&profile=pass
-SilveriTv[0*0],http://218.232.192.244:9981/stream/channelid/1676578304?ticket=ECD77AE6C4A327E0F1545946215174E80303A5A3&profile=pass
-SK stoa,http://218.232.192.244:9981/stream/channelid/1298706899?ticket=894F4DC9FDA19D8F7DC524D2A46E6C34D525F480&profile=pass
-SkyEnt,http://218.232.192.244:9981/stream/channelid/87319422?ticket=EF9FDF6775D3DBF0E0A72AC62CA2D562CDA61DA9&profile=pass
-방송대학TV,http://218.232.192.244:9981/stream/channelid/962071587?ticket=016C793B4B40511223F5D33A5640C2484C4F6EA1&profile=pass
-브릿지[0*0],http://218.232.192.244:9981/stream/channelid/1970368548?ticket=A291E9134A21FD48E1C105C7341CE2269D40659B&profile=pass
-중국방송,http://218.232.192.244:9981/stream/channelid/705023040?ticket=E1B18B3B4ED6452D3ED513E36988B3EB38605F58&profile=pass
-지방자치TV,http://218.232.192.244:9981/stream/channelid/1354711370?ticket=2599EC47D4B7E850DB852A598216102AA7CC1D02&profile=pass
-쿡TV,http://218.232.192.244:9981/stream/channelid/109778001?ticket=114E8806503685A832CA23C02CB6AC3D7778EE6E&profile=pass
+VIU tv,http://206.221.176.47:64030
+天映经典http://120.84.96.63:808/hls/85/index.m3u8
+八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+龙华日韩,http://123.51.149.52:18508/1.m3u8
+龙华偶像,http://123.51.149.52:18573/1.m3u8
+龙华戏剧,http://123.51.149.52:18607/1.m3u8
+NHK,http://123.51.149.52:18625/1.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+KBCSBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+Babytv,http://206.221.176.47:64006
+HOY TV,http://206.221.176.47:64007
+mediacorp,http://206.221.176.47:64022
+ELTA娱乐,http://206.221.176.47:64024
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+东森洋片,http://120.84.96.74:808/hls/33/index.m3u8
+东森电影,http://120.84.96.74:808/hls/32/index.m3u8
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+LSTime电影, http://120.84.96.63:808/hls/35/index.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+湾湾,#genre#
+凤凰香港,http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+凤凰卫视,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
+翡翠JI,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+ViuTV,http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+RTHK32,http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
+中天综合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+中天娱乐,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
+中天亚洲台,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
+中天新闻GE,http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+中视新闻台,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+中视HD,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
+公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+台视综合,http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
+三立综合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
+三立戏剧台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+三立TW,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+民视新闻FTVNews,http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=MA8A6605176766051767&ct=19193&tsum=37e8e3780b1b2bf198c95c2e6b3a9746
+民视TW,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
+华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
+华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+东森电影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+八大综合J,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+八大戏剧G,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
+八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+八大第一F,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+龙华经典X,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+TVBS新闻台,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+TVBS欢乐台(备份),http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
+LSTime电影,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+JET综合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
+HollywoodMovies,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+HBO温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+HBOHD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+ELTA影剧,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+BaBy,http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
+AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+AXNTW,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
+亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+探索亚洲,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+探索亚洲,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+国家地理野生,http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+国家地理台湾,http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+动物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
+CI,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+CN,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+EYETV戏剧,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+EYETV旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+靖天卡通,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+天映经典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+CelestialMovies,http://210.210.155.37/dr9445/h/h14/index.m3u8
+Kix,http://210.210.155.37/dr9445/h/h07/index.m3u8
+卫视有线电影,http://23.237.10.66:16010
+翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 
 体育,#genre#
-爱尔达体育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-爱尔达体育1,rtmp://59.124.75.138/sat/md011
-爱尔达体育1,rtmp://59.124.75.150/sat/md011
-爱尔达体育2,rtmp://59.124.75.138/sat/md021
-爱尔达体育2,rtmp://59.124.75.150/sat/md021
-爱尔达体育3,rtmp://59.124.75.138/sat/md041
-爱尔达体育3,rtmp://59.124.75.150/sat/md041
-博斯网球,rtmp://59.124.75.138/sat/md031
-博斯网球,rtmp://59.124.75.150/sat/md031
-纬来体育HD,http://123.51.229.65:18509/.m3u8
-纬来体育HD,http://60.251.39.247:8503/http/192.168.77.24:8081/hls/67/809/ch28.m3u8
-ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
-ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
-World Poker,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-ESPN,http://69.164.224.53:80/ESPN/mpegts
-NBC Golf,http://89.187.175.143:80/3013/mpegts
 Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
-EDGE sport,https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 Eurosport1,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
 Eurosport1,https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
 Eurosport1,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
 Eurosport1,http://152.228.154.144/stream/DKQ6M3GWVG1/176.m3u8
 Eurosport1,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
 Eurosport1,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8
-Eurosport2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
 Eurosport2,http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
 Eurosport2,https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
 Eurosport2,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
-
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-ESPN,http://69.164.224.53:80/ESPN/mpegts
-Game Show Network,http://89.187.175.143:80/3023/mpegts
-ESPNU,http://89.187.175.143:80/3044/mpegts
-Fox Sports 1,http://89.187.175.143:80/3056/mpegts
-Fox Sports 2,http://89.187.175.143:80/3056/mpegts
-Golf Channel,http://89.187.175.143:80/3013/mpegts
-MLB Network,http://89.187.175.143:80/3003/mpegts
-MSG2,http://89.187.175.143:80/3064/mpegts
-TSN1,http://89.187.175.143:80/3038/mpegts
-TSN2,http://89.187.175.143:80/3045/mpegts
-TSN3,http://89.187.175.143:80/3046/mpegts
-TSN4,http://89.187.175.143:80/3047/mpegts
-TSN5,http://89.187.175.143:80/3048/mpegts
-USA Network,http://89.187.175.143:80/3025/mpegts
-SPORTS ACTION,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110705.m3u8
-SPORTS BLITZ,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111009.m3u8
-SPORTS CRICKET,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110707.m3u8
-SPORTS GOLF,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111012.m3u8
-SPORTS GRANDSTAND,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110696.m3u8
-SPORTS MOTORSPORT,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111010.m3u8
-SPORTS RUGBY,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110706.m3u8
-SPORTS TENNIS,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111011.m3u8
-
 
 知识,#genre#
 叶剑英为何封帅,https://vd4.bdstatic.com/mda-mcams00jq5xj8eu4/hd/cae_h264_clips/1615448988/mda-mcams00jq5xj8eu4.mp4
@@ -627,7 +553,6 @@ SPORTS TENNIS,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111011.m3u8
 蔷薇骑士,http://vod-wy.cctv.cn/cms/2021-04-10/ART_450k_73b00f652eae4386a5d1ef4cfe61bea5-1618067637504-001.mp4
 北大博士说相声,https://vd4.bdstatic.com/mda-mangzauuruk8d7ia/hd/cae_h264_clips/1611384035/mda-mangzauuruk8d7ia.mp4
 佩洛西访问,https://cdnv.rt.com/doc-files/filmy/vizit-pelosi-na-tajvan-amerikanskie/vizit-pelosi-na-tajvan-amerikanskie_3.mp4
-2022年8月12日
 军事行动问题,https://cdnv.rt.com/doc-files/filmy/voennaya-operaciya-voprosi-i-otveti/voennaya-operaciya-voprosi-i-otveti_3.mp4
 俄罗斯恐惧症和西方双重标准,https://cdnv.rt.com/doc-files/filmy/rusofobiya-istoriya-nenavisti/rusofobiya-istoriya-nenavisti_3.mp4
 通往独立的道路,https://cdnv.rt.com/doc-files/filmy/lnr-put-k-nezavisimosti/lnr-put-k-nezavisimosti_1.mp4
@@ -636,8 +561,7 @@ SPORTS TENNIS,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111011.m3u8
 азовстал。解放,https://cdnv.rt.com/doc-files/filmy/azovstal-osvobozhdenie/azovstal-osvobozhdenie_3.mp4
 第二次世界大战的领导人,https://cdnv.rt.com/doc-files/filmy/bolshaya-trojka-lideri-vtoroj-mirovoj/bolshaya-trojka-lideri-vtoroj-mirovoj_3.mp4
 马里乌波尔。回归,https://cdnv.rt.com/doc-files/filmy/mariupol-vozvrashhenie/mariupol-vozvrashhenie_3.mp4
-刚果望族
-生活在贫困中,https://cdnv.russiatoday.com/rtd-files/films/the-congo-dandies/the-congo-dandies_1.mp4
+刚果望族生活在贫困中,https://cdnv.russiatoday.com/rtd-files/films/the-congo-dandies/the-congo-dandies_1.mp4
 马里乌波尔的行动,https://cdnv.rt.com/doc-files/filmy/mariupolskij-kotyol-pered-shturmom/mariupolskij-kotyol-pered-shturmom_1.mp4
 马里乌波尔之战,https://cdnv.rt.com/doc-files/filmy/bitva-za-mariupol-osvobozhdenie-goroda/bitva-za-mariupol-osvobozhdenie-goroda_3.mp4
 顿巴斯,https://cdnv.rt.com/doc-files/filmy/donbass-leto-2014/donbass-leto-2014_3.mp4
@@ -647,7 +571,43 @@ SPORTS TENNIS,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111011.m3u8
 意识形态战争,https://cdnv.rt.com/doc-files/filmy/aleksandr-hodakovskij---ob-osvobozhdenii/aleksandr-hodakovskij---ob-osvobozhdenii_3.mp4
 这里是中国1,https://cdnv.rt.com/doc-files/filmy/pobedit-bednost-opit-kitaya/pobedit-bednost-opit-kitaya_1.mp4
 这里是中国2,https://cdnv.rt.com/doc-files/filmy/sovremennij-kitaj-mezhdu-gorodom-i/sovremennij-kitaj-mezhdu-gorodom-i_1.mp4
- 4K专区,#genre#
+😁😂😎,#genre#
+岛国末日生存游戏,https://vd3.bdstatic.com/mda-nfefqdfv15pf5vup/sc/cae_h264/1655292964274081968/mda-nfefqdfv15pf5vup.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666247935-0-0-bef9f47232ca4c5bfe15a2b85844dff1&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0535698717&vid=1373455815919040944&abtest=104959_1&klogid=0535698717
+哥斯拉毁灭东京,https://vd2.bdstatic.com/mda-ngucjuydws2fd7ae/sc/cae_h264/1659086201674226933/mda-ngucjuydws2fd7ae.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666287923-0-0-0f80ee3460356726e17cd3e6e1ba8800&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0923421023&vid=12847450809790275073&abtest=104959_2&klogid=0923421023
+
+A.60万日军沦为俘虏,https://vd4.bdstatic.com/mda-nh2ehwun7n624hvw/sc/cae_h264/1659524723174102304/mda-nh2ehwun7n624hvw.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248290-0-0-989e6f3191a97ec13985cf5e58ead1f6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0890578245&vid=8006838544118634015&abtest=104959_1&klogid=0890578245
+B.日本人的噩梦,https://vd3.bdstatic.com/mda-nh2fpdasd88ivkx9/720p/h264/1659524693733916043/mda-nh2fpdasd88ivkx9.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666288079-0-0-9736fd0a1033db1899dab6b7f3ed1079&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1079559497&vid=15535975653560617797&abtest=104959_2&klogid=1079559497
+C.不愧是战斗民族,https://vd2.bdstatic.com/mda-nh2ehz27usa063jk/sc/cae_h264/1659525233541266899/mda-nh2ehz27usa063jk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666288129-0-0-ed3c3ee85d70a91932dcf7b34b1ecc97&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1129275702&vid=11139781193732259776&abtest=104959_2&klogid=1129275702
+日军的最惨败仗,https://vd3.bdstatic.com/mda-nhphmgf3augwudwc/sc/cae_h264/1661391799462993004/mda-nhphmgf3augwudwc.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666288203-0-0-a912c50b833d53fe68735537769feb55&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1203847148&vid=4319842518330699854&abtest=104959_2&klogid=1203847148
+鬼子被困孤岛,https://vd2.bdstatic.com/mda-nhphmmx0pbsd918y/sc/cae_h264/1661345393973381310/mda-nhphmmx0pbsd918y.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248409-0-0-5b4c9e81a31f3d6e4744c356fd86ee9d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1009823699&vid=6899848997344278606&abtest=104959_1&klogid=1009823699
+我们的喜剧片,https://vd2.bdstatic.com/mda-nhpk23em440kfxb0/sc/cae_h264/1661359177736100632/mda-nhpk23em440kfxb0.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248450-0-0-dc4a9f353a205d2a697e97d3e9346463&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1050669932&vid=8301576058904599509&abtest=104959_1&klogid=1050669932
+10万日军全灭,https://vd2.bdstatic.com/mda-nhrfsb0ddkxkv2a5/sc/cae_h264/1661513273729945609/mda-nhrfsb0ddkxkv2a5.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248490-0-0-88e47b20fdc20b8cfd2b9c3eb6980e2e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1090187889&vid=6767192918847637469&abtest=104959_1&klogid=1090187889
+日本大战俄国1,https://vd4.bdstatic.com/mda-nhrfs5sjvad5kjhe/sc/cae_h264/1661513591105581579/mda-nhrfs5sjvad5kjhe.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248490-0-0-1b7200269a4fece44568f04ff8f5fe41&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1090666390&vid=11993620627434128325&abtest=104959_1&klogid=1090666390
+日本大战俄国2,https://vd2.bdstatic.com/mda-nhs3338566028k86/sc/cae_h264/1661567359007688919/mda-nhs3338566028k86.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248491-0-0-61ff7737481eedcc144f2bef4d7f8fdf&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1091397859&vid=16153009109059707393&abtest=104959_1&klogid=1091397859
+鬼子最大的战舰,https://vd2.bdstatic.com/mda-nhv52hft375y8xrd/sc/cae_h264/1661832843040711106/mda-nhv52hft375y8xrd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666288316-0-0-18465efff6c87d300a13cb2176b19fe9&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1316406957&vid=2390428364177394906&abtest=104959_2&klogid=1316406957
+死了直接喂王八,https://vd2.bdstatic.com/mda-nhv52m0fa0imj9zi/sc/cae_h264/1661833153631667840/mda-nhv52m0fa0imj9zi.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248585-0-0-9f3dead7675d5d455053e1052a32ad43&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1185885664&vid=11362901412757191886&abtest=104959_1&klogid=1185885664
+永不沉没的战舰,https://vd2.bdstatic.com/mda-nhv52rfb3mtp6suv/sc/cae_h264/1661834087174005580/mda-nhv52rfb3mtp6suv.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248586-0-0-d6d2daa016120ecec0d9a19b8df9beb4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1186522158&vid=3650655058622985986&abtest=104959_1&klogid=1186522158
+
+鬼子的作死之路1,https://vd4.bdstatic.com/mda-ni7fjv3vad7sgxzi/sc/cae_h264/1662636313614670081/mda-ni7fjv3vad7sgxzi.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248679-0-0-4931db597e19204074bf04a9b2f153d2&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1278958114&vid=1694539891562323438&abtest=104959_1&klogid=1278958114
+鬼子的作死之路2,https://vd3.bdstatic.com/mda-ni7fk0n4kehayqi5/sc/cae_h264/1662636556902137225/mda-ni7fk0n4kehayqi5.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248679-0-0-a35a72948b083c2d9b802c5ff2e737c8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1279574172&vid=10488935653110106967&abtest=104959_1&klogid=1279574172
+鬼子的作死之路3,https://vd2.bdstatic.com/mda-ni8dhsqf2bay6p6b/sc/cae_h264/1662717429564811373/mda-ni8dhsqf2bay6p6b.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248680-0-0-b99937afca7051b920daac6c8dc7b566&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1280119135&vid=10909581507438250936&abtest=104959_1&klogid=1280119135
+日本投降后,https://vd3.bdstatic.com/mda-ni94drmzny7zuufh/haokan_t/dash/1662896179410043535/mda-ni94drmzny7zuufh-1.mp4
+羞辱天蝗1,https://vd4.bdstatic.com/mda-nic5d6ptxavba5ri/sc/cae_h264/1663041738711413123/mda-nic5d6ptxavba5ri.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248726-0-0-bf315d43ad9edaf0a19e6f230f707a2b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1326093269&vid=9545153307846837605&abtest=104959_1&klogid=1326093269
+羞辱天蝗2, https://vd3.bdstatic.com/mda-ni949n8pgwf2q85u/sc/cae_h264/1662865340173558933/mda-ni949n8pgwf2q85u.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1666288431-0-0-6e8ea8c9fd96652dbb7262fe45d3047c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1431937157&vid=3004607404299299281&abtest=104959_2&klogid=1431937157
+
+
+
+
+
+阿鬼从军1,https://vd4.bdstatic.com/mda-nishqs0uksdfx6j4/sc/cae_h264/1664282923287425578/mda-nishqs0uksdfx6j4.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248915-0-0-05e41a3f3b450fc044a3e1de75d86b49&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1515223806&vid=3009400994871611718&abtest=104959_1&klogid=1515223806
+阿鬼从军2,https://vd2.bdstatic.com/mda-nishr6fx4nujgs6y/sc/cae_h264/1664283689981768313/mda-nishr6fx4nujgs6y.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248916-0-0-35411911ee9c57cd6d5f559a32f75ce6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1516324372&vid=2522497711061901919&abtest=104959_1&klogid=1516324372
+阿鬼从军3,https://vd4.bdstatic.com/mda-nishr56qufcfu6bt/sc/cae_h264/1664284256145536723/mda-nishr56qufcfu6bt.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666248917-0-0-93a772a3b8cf6af6da12586e421070e0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1517460590&vid=4885280443283448515&abtest=104959_1&klogid=1517460590
+鬼子自杀神器1,https://vd4.bdstatic.com/mda-njdj8dd0v3ruxcud/sc/cae_h264/1665755234721445004/mda-njdj8dd0v3ruxcud.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249034-0-0-d6e8d14eb8572068ef66840b7bf5c156&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1634856411&vid=8619951779930493208&abtest=104959_1&klogid=1634856411
+鬼子自杀神器2,https://vd3.bdstatic.com/mda-njdj8h56idq3kicd/sc/cae_h264/1665755748060523496/mda-njdj8h56idq3kicd.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249035-0-0-ba2b5bd40991115da3c4e4d7be8f267f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1635421423&vid=5971321753399267737&abtest=104959_1&klogid=1635421423
+鬼子自杀神器3,https://vd3.bdstatic.com/mda-njehmff800y10cpk/sc/cae_h264/1665837539517784565/mda-njehmff800y10cpk.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1666249036-0-0-5f551353bddd102151a5b0a54789ab80&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1636439606&vid=8062779665401088004&abtest=104959_1&klogid=1636439606
+25568e3a5a5f276e7e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2091311884&vid=5888975795778479685&abtest=104959_1&klogid=2091311884
+
+4K专区,#genre#
 CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8 
 CCTV-4K 超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8 
 CCTV-4K 超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8 
@@ -698,6 +658,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8  
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8 
+
 神曲,#genre#
 
 Phut Hon魔性洗脑,https://vd3.bdstatic.com/mda-nh56rkczv3arkanw/720p/h264/1659761285009920840/mda-nh56rkczv3arkanw.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660822166-0-0-d485d5240ecece8f456d2ed069ddb1bb&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3566853817&vid=16531175965604536324&abtest=103742_2-103579_2&klogid=3566853817
@@ -772,6 +733,57 @@ SiTV东方财经,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/d
 SiTV七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 SiTV魅力足球,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/2300000/mnf.m3u8
 SiTV全纪实,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/qjshd/2300000/mnf.m3u8
+
+
+NewTV,#genre#
+NewTV东北热剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
+NewTV中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
+NewTV军事评论,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
+NewTV军旅剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
+NewTV农业致富,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
+NewTV古装剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
+NewTV家庭剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
+NewTV怡伴健康,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
+NewTV明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
+NewTV欢乐剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+NewTV武搏世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
+NewTV海外剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
+NewTV潮妈辣婆,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
+NewTV炫舞未来,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
+NewTV精品体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
+NewTV精品大剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
+NewTV精品纪录,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
+NewTV超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
+NewTV超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
+NewTV超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
+NewTV超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
+NewTV超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
+NewTV超级电视剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
+NewTV超级电视剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225765/index.m3u8
+NewTV超级综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
+NewTV超级综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
+NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
+NewTV爱情喜剧,http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
+NewTV爱情喜剧,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
+NewTV潮妈辣婆,http://39.135.138.58:18890/PLTV/88888888/224/3221225708/index.m3u8
+NewTV潮妈辣婆,http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
+NewTV动作影视,http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
+NewTV古装剧场,http://111.40.196.36/PLTV/88888888/224/3221225618/index.m3u8
+NewTV军旅剧场,http://111.40.196.28/PLTV/88888888/224/3221225622/index.m3u8
+NewTV精彩剧场,http://111.20.33.93/PLTV/88888893/224/3221226012/index.m3u8
+NewTV精品纪录,http://111.40.196.9/PLTV/88888888/224/3221225630/index.m3u8
+NewTV精品纪录,http://111.40.196.28/PLTV/88888888/224/3221225630/index.m3u8
+NewTV精品体育,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
+NewTV金牌综艺,http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
+NewTV军事评论,http://111.40.196.39/PLTV/88888888/224/3221225634/index.m3u8
+NewTV惊悚悬疑,http://111.40.196.32/PLTV/88888888/224/3221225638/index.m3u8
+NewTV家庭剧场,http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
+NewTV家庭剧场,http://111.40.196.39/PLTV/88888888/224/3221225626/index.m3u8
+NewTV精品综合,http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8
+NewTV农业致富,http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
+NewTV农业致富,http://111.40.196.35/PLTV/88888888/224/3221225636/index.m3u8
+NewTV武搏世界,http://111.40.196.39/PLTV/88888888/224/3221225664/index.m3u8
+NewTV中国功夫,http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8
 
 百视通,#genre#
 童年国漫,http://bp-caster.bestv.com.cn/486/1/video.m3u8
@@ -1091,9 +1103,8 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 大星与海绵方块,http://epg.112114.xyz/douyu/3949681
 草帽丶海贼团的直播间,http://epg.112114.xyz/douyu/997925
 【动漫】超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
-港电影院,http://epg.112114.xyz/douyu/9826611
-
-良少聊漫威 地,http://txtest-xp2p.p2p.huya.com/src/1199582668017-1199582668017-5526731416475271168-2399165459490-10057-A-0-1.xs
+公众号：,http://epg.112114.xyz/douyu/9826611
+放学回家看电视,http://txtest-xp2p.p2p.huya.com/src/1199582668017-1199582668017-5526731416475271168-2399165459490-10057-A-0-1.xs
 胡八一胖子沙漠古城找鬼洞,http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
 一部黑暗到骨子里的悬疑片,http://txtest-xp2p.p2p.huya.com/src/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.xs
 5.神乐影片2,http://epg.112114.xyz/douyu/85894
@@ -1316,6 +1327,10 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 
 
 
+
+
+
+
 小仙女直播,#genre#
 小姐姐轮播直播点击换,http://wmsp.cc/video.php
 抖音轮播直播点击切换,http://mmitv.top/test/douyin.php?id=top
@@ -1344,7 +1359,7 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 13,https://vip2.fhbf9.com/20210804/0KYPCg9G/index.m3u8
 14,https://vip2.fhbf9.com/20210804/3vgd2X8X/index.m3u8
 
-ottras,#genre#
+ottras_987,#genre#
 Dorcel,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/245/index.m3u8
 RedLight,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/242/index.m3u8
 Hustler,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/244/index.m3u8
@@ -1380,7 +1395,7 @@ Pure Babes,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12112/index.m3u8
 KinoXXX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11052/index.m3u8
 OX-AX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11068/index.m3u8
 
-一本,#genre#
+YBD失效_987,#genre#
 一本1[720*404],https://vip4.ddyunbo.com/20210223/lFsvEfoW/index.m3u8?skipl=1
 一本2[720*402],https://vip4.ddyunbo.com/20210223/irFKB3O3/index.m3u8?skipl=1
 一本4[720*404],https://vip4.ddyunbo.com/20210223/I28Qes3F/index.m3u8?skipl=1
@@ -1522,7 +1537,7 @@ OX-AX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11068/index.m3u8
 
 
 
-午夜#genre#
+WY待删除_987#genre#
 午夜1,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4003v105.m3u8_zase.jebes.kresnu.mac.tu
 午夜2,http://live.redtraffic.xyz:80/interracial.m3u8
 午夜3,http://live.redtraffic.xyz:80/bigtits.m3u8
@@ -1570,7 +1585,7 @@ KMP 頻道,p2p://54.39.16.152:9906/626b7417000ebc0c0c6c7ee48913e1f0
 大學女援交妹,p2p://54.39.16.152:9906/626b74450000c4030c6d2f0117e32ee4
 做愛輸入,p2p://54.39.16.152:9906/626b7455000e15fa0c6d70eac57e0110
 
-AV直播,#genre#
+无效直播_987,#genre#
 jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
 EvilAngel,http://212.18.115.193:3169/play/ftv/index.m3u8
 Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
@@ -1695,7 +1710,7 @@ Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 
 
 
-麻豆,#genre#
+md失效_987,#genre#
 02,https://47b61.cdnedge.live/file/avple-images/hls/6167172d51121708a790a1b9/playlist.m3u8
 06,https://47b61.cdnedge.live/file/avple-images/hls/6167160151121708a790a1b6/playlist.m3u8
 17,https://47b61.cdnedge.live/file/avple-images/hls/61630f75114a6a29b065cdeb/playlist.m3u8
@@ -1816,7 +1831,7 @@ Carib 110218-784 仲村さり くわえたい冲动のエロカワ美女 〜喉�
 102518_760 一根肉棒不能满足！ 东山実,https://v.didivod.com/20220817/VjqTvnaA/index.m3u8
 KIRARI 90 榨干你三次还不罢休的极上无毛女优Ray,https://v.didivod.com/20220817/KLe5s3wJ/index.m3u8
 HEYZO 1530 我的肉穴狂洩不止～床上的大洪水～ – 橘优奈,https://v.didivod.com/20220817/8BQLHNkF/index.m3u8
-日本AV,#genre#
+失效测_987,#genre#
 性感按摩师,https://fc.imgscloud.com/e/cmmcpqeiqt/cmmcpqeiqt.m3u8
 小林初花,https://fc.imgscloud.com/e/gadthdaocc/gadthdaocc.m3u8
 北岛玲,https://fc.imgscloud.com/c/scblgkfaiw/scblgkfaiw.m3u8
@@ -1850,7 +1865,7 @@ Beanpaste,https://fc.imgscloud.com/c/edgnokzuzi/edgnokzuzi.m3u8
 小亞洲人16-場景3,http://1244.vod.redtraffic.xyz/ph56b4299c58ba3/play.m3u8
 无码影片,https://d3vfgw5crbffaq.cloudfront.net/20200109/FC2PPV-1224188/index.m3u8
 
-欧美AV,#genre#
+已失效_987,#genre#
 女同性戀瑜伽課,http://6122.vod.redtraffic.xyz/ph5906b6976f9b1/play.m3u8
 硬粗暴的性行為和為壞女孩打屁股,http://60106.vod.redtraffic.xyz/ph573407f33f55b/play.m3u8
 英國成熟,http://13216.vod.adultiptv.net/ph569113e4da15c/play.m3u8
