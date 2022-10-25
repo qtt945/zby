@@ -1,5 +1,5 @@
 1025更新,#genre#
-支持方式,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/zby/main/jgfx.mp4
+
 大陆央视,#genre#
 CCTV1,mitv://ns1.hellotvvod.com:9906/16d723868f4a45eba4e950339eb43285
 CCTV2,mitv://ns1.hellotvvod.com:9906/7a2f180e386d46dca98bb438e06c62e6
@@ -45,8 +45,7 @@ CCTV16,mitv://ns1.hellotvvod.com:9906/10516a488165429f96e63ad1d38b7e00
 广东体育,mitv://ns1.hellotvvod.com:9906/94ad6229b9564cd88c4a56bbe773f8e5
 CCTV16,mitv://ns1.hellotvvod.com:9906/10516a488165429f96e63ad1d38b7e00
 广东影院,mitv://ns1.hellotvvod.com:9906/634f86cf00036082507ad6ca0f1c1a62
-港澳特区, #genre#
-
+港澳特区,#genre#
 凤凰电影,mitv://ns1.hellotvvod.com:9906/f68a2947cfe74ce0872d9d93a6fd9183
 凤凰香港,mitv://ns1.hellotvvod.com:9906/22e9447920ee4f3d96f69e80b2dc5222
 凤凰中文,mitv://ns1.hellotvvod.com:9906/ecb4ae26e14740efb2ef913363740c4c
@@ -82,7 +81,7 @@ Thrill,mitv://ns1.hellotvvod.com:9906/1ca2718b440d4e339954a50d679f8f67
 星空卫视,mitv://ns1.hellotvvod.com:9906/29773d20f47d4ec0a1de16f938b579e1
 澳门-MACAU,mitv://ns1.hellotvvod.com:9906/c8fc227b70b04a7bb4ad93b847eb4732
 澳门莲花,mitv://ns1.hellotvvod.com:9906/8db3f2ad811346d2bbba0b9fe4dff630
-台湾省, #genre#
+台湾省,#genre#
 
 TVBS,mitv://ns1.hellotvvod.com:9906/634f827d00054aee5069f6f7241b2c13
 TVBS欢乐台,mitv://ns1.hellotvvod.com:9906/5a325f731a194dec8b672d6adba64417
