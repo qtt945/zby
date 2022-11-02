@@ -261,15 +261,6 @@ CCTV15-音乐,http://125.40.191.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playl
 
 数字频道,#genre#
 
-
-CHC高清影视,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
-CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
-CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
-CHC家庭电影,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
-CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CNC英文,http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
 CNC中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
