@@ -1,11 +1,11 @@
 ■1102更新■,#genre#
-Ⅰ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk9aq4gUogIDbxwQ.mp4
-Ⅱ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+Ⅰ,https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200813/crouchingtigerhiddendragon-2000-china-1080p/8ffadcc9b940825da2c3abddecf2bc12.smil/chunklist_b4628000.m3u8
+Ⅱ,https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200317/the_con_artists_fptplay_1080p_sub_logofptplay/0e21f15ac8f9e1f54e064386fee6f324.smil/chunklist_b3992000.m3u8
 Ⅲ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
 Ⅳ,http://txtest-xp2p.p2p.huya.com/src/1099531728616-1099531728616-86332450422128640-2199063580688-10057-A-0-1.xs?wsSecret=b12104bdc77d4d5547922b9997b4ebcd&wsTime=6246cbc5&u=0&seqid=16487204510690000&ctype=tars_mobile&fs=bgct&t=103
-Ⅴ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
-Ⅵ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
-Ⅶ,https://vd3.bdstatic.com/mda-ndnc5rzvijh6p5ir/720p/h264_delogo/1650703666863593607/mda-ndnc5rzvijh6p5ir.mp4
+Ⅴ,https://vod01-cdn.fptplay.net/encoded/20200628/act_of_valor_1080p_logofptplay_v3/1080p/index.m3u8
+Ⅵ,http://vod-zlr2.tv360.vn/video1/2021/12/16/11/e87eebf0/e87eebf0-2f3b-46af-8041-4295730f82fe_5_.m3u8
+Ⅶ,http://vod-zlr2.tv360.vn/video1/2021/11/29/14/ca5b11c0/ca5b11c0-46c1-4766-b878-677ed07a97ba_5_.m3u8
 Ⅷ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
 
 
@@ -384,7 +384,7 @@ EYETV旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c9
 卫视有线电影,http://23.237.10.66:16010
 翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 
-湾仔,#genre#
+湾仔_169,#genre#
 中天新闻,http://www.253iptv.ga/kumao/youtube.php?id=_QbRXRnHMVY
 中视新闻,http://www.253iptv.ga/kumao/youtube.php?id=TCnaIE_SAtM
 凤凰中文,http://www.253iptv.ga/kumao/youtube.php?id=kk12tpAlGTI
