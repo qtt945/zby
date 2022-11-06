@@ -508,7 +508,16 @@ Kix,http://210.210.155.37/dr9445/h/h07/index.m3u8
 卫视有线电影,http://23.237.10.66:16010
 翡翠台,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 
-湾仔,#genre#
+V版湾仔,#genre#
+TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=29
+中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24
+中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
+寰宇新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=27
+东森财经新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=35
+TVBS新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=31
+台视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=26
+LIVE三立,http://140.238.155.232:9000/jmsytb.m3u8?c=23
+三立iEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
 无线新闻,http://50.7.220.74:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
 无线财经,http://50.7.220.74:8278/j5_twn/playlist.m3u8?tid=m3b7232941813&ct=18336&tsum=2652e4efd153feaf5e425047082469ea
 J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
