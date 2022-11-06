@@ -1,4 +1,4 @@
-■1105更新■,#genre#
+■1106更新■,#genre#
 Ⅰ,https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200813/crouchingtigerhiddendragon-2000-china-1080p/8ffadcc9b940825da2c3abddecf2bc12.smil/chunklist_b4628000.m3u8
 Ⅱ,https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200317/the_con_artists_fptplay_1080p_sub_logofptplay/0e21f15ac8f9e1f54e064386fee6f324.smil/chunklist_b3992000.m3u8
 Ⅲ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
