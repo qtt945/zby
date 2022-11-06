@@ -1272,7 +1272,7 @@ yang光的快乐生活,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-53687
 快手轮播直播点击切换,http://mmitv.top/test/ks.php
 网络热门歌曲点击切换,https://api.vvhan.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C
 
-tiktok三_5566,#genre#
+抖音国际_5566,#genre#
 1,https://www.tgbak.com/%E6%8A%96%E9%9F%B3%E5%B0%8F%E5%A7%90%E5%A7%90/5343.mp4
 2,https://www.tgbak.com/%E6%8A%96%E9%9F%B3%E5%B0%8F%E5%A7%90%E5%A7%90/7098.mp4
 3,https://www.tgbak.com/%E6%8A%96%E9%9F%B3%E5%B0%8F%E5%A7%90%E5%A7%90/3347.mp4
